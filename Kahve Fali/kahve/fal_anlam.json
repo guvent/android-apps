@@ -1,0 +1,3626 @@
+[
+  {
+    "title": "Abajur",
+    "description": "Hiç umulmayan bir anda akla gelecek bir fikirle ortaya çıkarılacak bir iş olumlu sonuç verecek. Kazanç elde edilecek."
+  },
+  {
+    "title": "Abide",
+    "description": "İyi bir kariyer elde etmek anlamındadır. Devlet ile iş yapmak ve büyük kazançlar elde etmek, veya bir topluluğa faydalı olmak anlamına gelir."
+  },
+  {
+    "title": "Açı",
+    "description": "Geometrik açılar görmek, kahveyi içen kişinin mesleği hakkında bilgi verir."
+  },
+  {
+    "title": "Ada",
+    "description": "Hiç beklemediğiniz bir yerden gelecek olan para ya malı işaret eder."
+  },
+  {
+    "title": "Adak",
+    "description": "Hayırlı bir işe girileceği anlamına gelir. Adanmış ancak yerine getirilmemiş adak olarak da yorumlanır."
+  },
+  {
+    "title": "Adam",
+    "description": "Falına bakılan kişi kadın ise, bu figür hayatındaki adam olarak yorumlanabilir. Falına bakılan kişi erkek ise, bu figür danışıldığında yol gösterebilecek bir erbabı ya da dostu simgeleyebilir. Her iki durumda da duruşa, taşıdığı şeylere ve etrafındaki diğer öğelere göre yorum genişletilmelidir."
+  },
+  {
+    "title": "Ağ",
+    "description": "Çoğu yorumcu bunun bir tuzak işareti olduğu fikrindedir. Kişinin, çevresinde onu kandırmak isteyenler insanlar bulunmaktadır. Dikkatli olunmasında fayda var. Eğer bu bir balık ağı ise, alnınızın teriyle para kazanacağınıza, endişeleriniz yüzünden dikkatli olmanız gerektiğine ve dalavereye işaret eder. Denize ağ atmak kazançlı bir işe girmektir."
+  },
+  {
+    "title": "Ağaç",
+    "description": "Ağaç toprağın süsü ve giyimi olduğundan dolayı, insana göre yorumu kılık kıyafetinin düzelmesi anlamı taşımaktadır. Veya kılık kıyafetine biraz daha özen göstermek zorundadır. Özellikle takılarına biraz daha önem vermesi gerekir."
+  },
+  {
+    "title": "Ağaçkakan",
+    "description": "Gelecekte iyi günlerin olacağına yorumlanır. Bazı yorumcular için ise yakınlarınızdan birinin gevezeliği yüzünden gizli kalması gereken bazı bilgilerin açığa çıkmasından dolayı zarar göreceği anlamında açıklanmaktadır."
+  },
+  {
+    "title": "Ağıt Yakan Kişi",
+    "description": "Ağıt yakan bir kişi görmek kötü bir haber anlamında yorumlanır."
+  },
+  {
+    "title": "Ağız",
+    "description": "Kapalı bir ağız yakınlarla tartışma, kadın dudağı mutlu bir beraberliğe, küçük bir ağız ise bereketli bir kazanca işaret eder."
+  },
+  {
+    "title": "Ağlamak",
+    "description": "Hatalarınızın yarattığı vicdan azabından kurtulacağınız anlamına gelir."
+  },
+  {
+    "title": "Ahçı",
+    "description": "Son günlerde yaptığınız veya ilgilendiğiniz bir işin neticesinde mutluluğa kavuşacaksınız."
+  },
+  {
+    "title": "Ahize",
+    "description": "Güzel bir haber alacağınıza işarettir."
+  },
+  {
+    "title": "Ahşap Ev",
+    "description": "Güzel bir evlilik, saygın ve köklü bir aile hayatına işaret eder."
+  },
+  {
+    "title": "Ahtapot",
+    "description": "Bu günlerde birtakım karışık işlere gireceksiniz, dikkatli olun."
+  },
+  {
+    "title": "Aile",
+    "description": "Sevindirici, olumlu haberler alacaksınız."
+  },
+  {
+    "title": "Akarsu",
+    "description": "Yağmur, kar ve buzulların erimesinden kaynaklandığı için bereketin artmasıdır. Kahve fincanının tam ortasına gidiyorsa gelecek olan bereket ve bolluk epeyce bir zaman yetecek demektir. Eğer fincanın dibine doğru bir yere kadar çizgi geliyorsa o zaman geçici bir bolluk ve bereket olacaktır."
+  },
+  {
+    "title": "Akbaba",
+    "description": "Maddi kayıpla sonuçlanacak bir tehlikeyi işaret eder. Eve hırsız girebilir."
+  },
+  {
+    "title": "Akrep",
+    "description": "Akla hemen gelen zehir ve tehlikedir. Bunu yorumlarken mümkün olduğunca tam tersini yorumlamak gerekmektedir. Yani uğur ve güzellik olarak. Falın hane içinde akrep görünürse ev halkı ile güzel geçinmesi gerektiğini sembolize eder."
+  },
+  {
+    "title": "Alay",
+    "description": "Asker alayı; askerde olan bir yakın veya işi temsil eder. Düğün alayı; ailenin genişleyeceğine, ferah ve huzura işarettir. Cenaze alayı; acı habere yorumlanır."
+  },
+  {
+    "title": "Alem",
+    "description": "Cami minaresi, kubbesi veya bayrak üzerinde alem görmek; hayatta huzur ve rahatlığa işarettir."
+  },
+  {
+    "title": "Alet",
+    "description": "İnsanların günlük hayatta kullandıkları en büyük yardımcı olduğundan yorumu da yardım alma veya yardım etme anlamındadır. Burada falın bir önceki şekli ile beraber yorumlamak gerekir."
+  },
+  {
+    "title": "Alev",
+    "description": "Büyük ve tutkulu bir aşka sahip olacaksınız."
+  },
+  {
+    "title": "Alın",
+    "description": "Alında yaraya benzer koyuluk görmek; yaşanılmış bir utanca ve sıkıntıya, alında büyük yumru görmek; erkek evlat veya toruna sahip olacağına, kara alın sıkıntıya ve aldatılmışlığa, parlak alın; bol şans ve alınacak bir yardıma işarettir."
+  },
+  {
+    "title": "Altı",
+    "description": "Yeni bir dostluk veya uzun zamandır görmediğiniz bir haber alacaksınız. Dostlarınız aracılığıyla, özlem ve arzularınız gerçekleşecek. Evlilik."
+  },
+  {
+    "title": "Altın",
+    "description": "Sağlığın ve güvencenin işaretidir. Bir başka yoruma göre ise; bolluğa, sıkıntı ve dertlerinizden kurtulmaya; isteklerinize yakın zamanda kavuşulacağına işarettir. Altın bilezik; uzun sürecek bir iş veya kazanılacak mesleğe delalettir. Yüklü bir miras olarak da yorumlayanlar da var."
+  },
+  {
+    "title": "Altıparmak",
+    "description": "Zor bir duruma düşüleceğine ve düzenin bozulacağına işarettir."
+  },
+  {
+    "title": "Alyans",
+    "description": "Birlikte olduğunuz kişi ile aranız açılacak."
+  },
+  {
+    "title": "Ameliyat",
+    "description": "Birine ameliyat yapıldığını görmek; ameliyat olana büyük bir destek geleceği anlamına gelir."
+  },
+  {
+    "title": "Ampul",
+    "description": "Sıkıntılarınız bitecek, mutlu ve neşeli günlere kavuşacaksınız."
+  },
+  {
+    "title": "Anahtar",
+    "description": "Dilek ve arzularınız kabul olacak. Taşınma, ev alma veya kiralamak söz konusu olabilir."
+  },
+  {
+    "title": "Anlatmak",
+    "description": "Birisine bir şey anlatırken görmek; zamanın boş kuruntularla geçmesi yüzünden fırsatları değerlendirilmediğine işarettir."
+  },
+  {
+    "title": "Anne",
+    "description": "Kucağında çocuğuyla bir anne görmek; güvenli ve huzurlu bir ortama işarettir. Karşılıklı diyalog halinde ise beklenen bir haberin olumlu olacağı şeklinde yorumlanır. Yanında küçük bir çocuğu olan bir anneye sarılmış bir figür ise sevinecek bir habere ve olumlu gelişmelere işarettir."
+  },
+  {
+    "title": "Anten",
+    "description": "Hislerin yoğunlaşacağına, algıların açılacağına işarettir."
+  },
+  {
+    "title": "Antika",
+    "description": "Antika eşyaya benzeyen eşya görmek; eşyanın cinsine ve şekline görene yorumlar çeşitlense de köklü olayların habercisidir."
+  },
+  {
+    "title": "Apolet",
+    "description": "Kendisinin veya yakınlarından birinin terfisine ya da işinin ilerlemesine işarettir."
+  },
+  {
+    "title": "Araba",
+    "description": "Yer değiştirmeyi. Bir yerden başka bir yere taşınmayı. Aynı zamanda iş değiştirmeyi sembolize eder."
+  },
+  {
+    "title": "Arı",
+    "description": "Çalışkanlığı sembolize eder. Dertlerden kurtuluyorsunuz. Çalışmalarınızın karşılığını alacaksınız. Ayrıca bir yorumu da yazın çok çalışılması gerektiği anlamı taşır."
+  },
+  {
+    "title": "Arka",
+    "description": "Arkası dönük biri; ayrılığa, küskünlüğe ya da kötülüğe işarettir. Arkası dönük kişinin aydınlık olması ise yeniliklere işarettir. Yeni bir iş, ev veya eşya anlamına gelir. Sıkıntının gideceği anlamındadır."
+  },
+  {
+    "title": "Arma",
+    "description": "Umulmayan süpriz bir hediyenin müjdecisidir."
+  },
+  {
+    "title": "Armut",
+    "description": "Maddi yönden beklentiniz olumlu sonuçlanacak. Şans sizden yana."
+  },
+  {
+    "title": "Arp",
+    "description": "Aşk, mutluluk."
+  },
+  {
+    "title": "Arsa",
+    "description": "Sıkıntıların biteceğine ve iş hayatının düzeleceğine işaret eder."
+  },
+  {
+    "title": "Artı İşareti",
+    "description": "Oldukça üzücü bir haber alacaksınız. Bu bir yakınınızın ölüm haberi, ciddi bir hastalıkla karşılaşma, kaygı ve tasa olabilir."
+  },
+  {
+    "title": "Asa",
+    "description": "Liderliğin sembolüdür. Yalnız biraz sert olan bir lider. Ayni zamanda çok otoriter olduğunun anlamını taşır."
+  },
+  {
+    "title": "Aşçı",
+    "description": "Son dönemlerde harcanan emeklerin, yapılan işlerin ürünlerinin toplanma vaktinin yaklaştığına, mecazi olarak asat vaktinin yaklaştığına delalet eder."
+  },
+  {
+    "title": "Asker",
+    "description": "Kişiyi zorlu bir mücadele beklemektedir. Çok çalışması ve savaşını iyi yönde vermesi gerekir."
+  },
+  {
+    "title": "Aslan",
+    "description": "Kuvvet, gurur, cömertlik ve avcılığın sembolüdür."
+  },
+  {
+    "title": "Aslan Başı",
+    "description": "İstediklerinizi elde edebileceğinize yorumlanır. Murattır. Özlem ve arzuların gerçekleşmesi, uzaktan misafir, yeni bir dost demektir."
+  },
+  {
+    "title": "Asma Ağacı",
+    "description": "Sevgi duyulan bir kimseyle köklü bir beraberliğe, kalıcı işler yapmaya delalettir."
+  },
+  {
+    "title": "Asma Kilit",
+    "description": "Aşılması zor güç engellerin işaretidir."
+  },
+  {
+    "title": "At",
+    "description": "Asaletin ve zarafetin en güzel şeklidir. Falda koşar halde gözüken at o kişinin bekar ise iyi bir izdivaç yapacağını eğer evli ise etrafın çok iyi bir şekilde takdiri ile karşılaşacağını ifade eder."
+  },
+  {
+    "title": "At Nalı",
+    "description": "Hayırlı bir olay yada verimli bir iş sizi bekliyor."
+  },
+  {
+    "title": "Ateş",
+    "description": "Bir alarmdır. Ve Aynı zamanda uyarıdır. Yapılan veya gidilen yolun hatalı olduğunu gösterir. Her an tehlike ile karşılaşılabileceğinin ikazıdır."
+  },
+  {
+    "title": "Atlamak",
+    "description": "Bir yerden başka yere atlamak; sosyal durumun değişmesi, aşağı atlamak; mali durumun tamamen tersine dönmesine, dağdan veya duvardan atlamak; rahata ermek olarak yorumlanır."
+  },
+  {
+    "title": "Atlı",
+    "description": "Yeni dostluk başlangıcı, uzun süredir göremediğiniz bir dosttan haber alacaksınız."
+  },
+  {
+    "title": "Atmaca",
+    "description": "Zengin bir hayatı simgeler. Elinde atmaca tutmak; zorlukların üstesinden gelmeyi ve zor olanı başarmayı simgeler."
+  },
+  {
+    "title": "Av",
+    "description": "İşlerinizi çok fazla ihmal ettiniz, artık toplanmalısınız."
+  },
+  {
+    "title": "Av Kapanı",
+    "description": "Birileri tarafından aldatılmaya işarettir."
+  },
+  {
+    "title": "Avcı",
+    "description": "Yakında bir iyilikle karşılaşacaksınız, nihayet beklediğinize ulaşacaksınız."
+  },
+  {
+    "title": "Avize",
+    "description": "Başariya işarettir. Ferahlıpı simgeler."
+  },
+  {
+    "title": "Avuç",
+    "description": "Negatif olan alışkanlıklardan, dostlardan uzaklaşmanız gerekiyor."
+  },
+  {
+    "title": "Ay",
+    "description": "Aydınlığı işaret eder. Yarım ay rahata kavuşmaya daha zaman olduğunun işaretidir."
+  },
+  {
+    "title": "Ay Çiçeği",
+    "description": "Açtığı zamanlar sevinmeyi sembolize eder."
+  },
+  {
+    "title": "Ayak",
+    "description": "Kötü durumda, yardıma muhtaç birisiyle karşılacağı ve eğer yardım edilecekse, bu yardımın kesinlikle bir karşılık beklentisiyle, bir çıkar uğruna yapılmaması gerektiği şeklinde yorumlanır."
+  },
+  {
+    "title": "Ayak İzi",
+    "description": "Dostlarınız veya işinizden kaynaklanan sıkıntılarınız olacak. Dikkatli olun."
+  },
+  {
+    "title": "Ayakkabı",
+    "description": "Hane içinde çıkmışsa misafir geleceğini, hane dışında çıkmışsa gideceğini ifade eder."
+  },
+  {
+    "title": "Ayı",
+    "description": "Köpek gibi 42 dişi olduğundan, dilekte bulunuldu ise 41. gün sonunda 42. günde büyük bir dileğin yerine geleceği işaretidir."
+  },
+  {
+    "title": "Ayna",
+    "description": "Hayal aleminde yaşanıldığına, gerçeklerden uzaklaşıldığına ve hesaplaşmak gerektiğinin işaretidir."
+  },
+  {
+    "title": "Ayva",
+    "description": "Üzüntüden kaynaklı rahatsızlık geçirileceğinin habercisidir."
+  },
+  {
+    "title": "Baca",
+    "description": "Ev kuracak yeni bir yuva yapacak manasındadır. Tüten baca mutlu bir evliliği olacak anlamı taşımaktadır. Bacadan duman tütmüyorsa biraz ilerde olabilecek bir evliliği gösterir."
+  },
+  {
+    "title": "Bacak",
+    "description": "Bu sıralar mal kaybına uğrayabilirsiniz."
+  },
+  {
+    "title": "Badem",
+    "description": "Kendinizle ilgili düşündüğünüz her yeni atılım için tam zamanıdır."
+  },
+  {
+    "title": "Bahçe",
+    "description": "Güven içinde olmaya ve huzurlu bir yaşama işarettir."
+  },
+  {
+    "title": "Bahçe Beli",
+    "description": "Çalışkan olmak; genellikle ardından para ödülü gelir."
+  },
+  {
+    "title": "Bahçe Kapısı",
+    "description": "Memnuniyet verici bir şekilde çözülecek bir sorun."
+  },
+  {
+    "title": "Bahriyeli",
+    "description": "Kara sevdanın sembolü olarak yorumlanır. Aşırı bağlılık yaşanacağının ve bu sebeple hayatın geri kalanından zamansız bir kopuşa sebep olacağının alameti olarak yorumlanır."
+  },
+  {
+    "title": "Bal Peteği",
+    "description": "Emeklerin, özellikle iş yaşantısında boşa gitmeyeceğinin, karşılığının alınacağının alametidir."
+  },
+  {
+    "title": "Balina",
+    "description": "Oldukça büyük bir kısmet. Milli piyango veya çok güzel bir evlilik olabilir. Denizin içinde yaşayan en büyük balık olduğu için en büyük talih kuşu olarak ifade edilir."
+  },
+  {
+    "title": "Balık",
+    "description": "Her türlüsü hane içine girecek paradır. Kısmettir. Büyüklüğüne göre değerlendirme yapılır."
+  },
+  {
+    "title": "Balık Adam",
+    "description": "Hayırlı ve iyi bir iş için teşebbüse geçilecek fakat çok iyi bir araştırma gerektirmektedir. Sonuç çok iyi olacaktır."
+  },
+  {
+    "title": "Balık Ağı",
+    "description": "Balık ağı, alnınızın teriyle para kazanacağınıza, endişeleriniz yüzünden dikkatli olmanız gerektiğine ve dalavereye işaret eder. Denize ağ atmak kazançlı bir işe girmektir."
+  },
+  {
+    "title": "Balon",
+    "description": "İsminden de anlaşıldığı gibi asılsız haberdir. Herhangi bir sembolün hemen yanında olursa o sembolle ilgili haberin asılsız olduğunu ifade eder."
+  },
+  {
+    "title": "Balta",
+    "description": "İşinizden olma ihtimaliniz var, kısa bir sıkıntının ardından işler yoluna girecek."
+  },
+  {
+    "title": "Balyoz",
+    "description": "Çok sıkıntılı ve bedenen çok ağır bir işe işarettir."
+  },
+  {
+    "title": "Bando",
+    "description": "Alacağınız bir haberle rahatlayacağınıza işarettir."
+  },
+  {
+    "title": "Banyo",
+    "description": "Hayal kırıklığına işarettir, dikkatli olunması gerekir."
+  },
+  {
+    "title": "Baraj",
+    "description": "Kötü günler için uzun zamandır biriktirilen paranın gereksiz yerlere harcanarak tüketileceği anlamına gelir."
+  },
+  {
+    "title": "Baraka",
+    "description": "Sonunda para kaybı olan kötü bir durumla karşılaşılacağına işarettir."
+  },
+  {
+    "title": "Bardak",
+    "description": "Boş olan bardak bir iş yapılmış sonucu bekleniyor. Dolu olan bardaksa sonuç çok kısa bir zamanda net olarak alınıyor."
+  },
+  {
+    "title": "Barikat",
+    "description": "Yapmak istediğiniz işlerin önünde engeller görülüyor."
+  },
+  {
+    "title": "Baş",
+    "description": "Büyük bir paraya sahip olacaksınız, erkek çocuğu yolda."
+  },
+  {
+    "title": "Başak",
+    "description": "Bolluk, huzur, bereket sizi bekliyor."
+  },
+  {
+    "title": "Basamak",
+    "description": "Dilekleriniz adım adım gerçekleşecek telaşa gerek yok."
+  },
+  {
+    "title": "Başlık",
+    "description": "Tedbirli olunması gerektiğinin sembolüdür. Yalnız çok endişelenmenin lüzumu yoktur, çünkü tedbir alınması gereken olaylar, öngörülebilir olaylardır."
+  },
+  {
+    "title": "Baston",
+    "description": "Yumuşak ve sevecen aynı zamanda çok sevilen bir lider olacağı anlamına gelmektedir. İstikbali çok yüksek ve sağlıklı bir insan anlamı taşımaktadır."
+  },
+  {
+    "title": "Bataklık",
+    "description": "Keyfi hareketlerden kaynaklanacak maddi sıkıntıya işarettir."
+  },
+  {
+    "title": "Batan Güneş",
+    "description": "İsteklerinizin bir kısmı kısa zamanda gerçekleşecektir."
+  },
+  {
+    "title": "Bavul",
+    "description": "Ciddi boyutta kararlar alacaksınız, doğru olan kararı vermeye çalışın."
+  },
+  {
+    "title": "Baykuş",
+    "description": "Yakın bir zaman da gelecek sıkıntıdır. Fakat bu sıkıntıyı rahat karşılayabileceklerdir."
+  },
+  {
+    "title": "Bayrak",
+    "description": "Resmi daireden gelecek bir haber. Kamu görevine başlamak . Mahkeme ile ilgili bir iş görmek. Yalnız bu sembol iyi yöndedir. Kesinlikle üzücü değildir. Daha doğrusu buralardan gelecek olan iyi bir haberi sembolize eder."
+  },
+  {
+    "title": "Bebek",
+    "description": "Evli ise çok yakında çocuğu olacak. Bekar ise yeğeni veya çok sevdiği bir yakının bebeği olacak. Ayni zamanda bebek masumluğu da sembolize eder."
+  },
+  {
+    "title": "Berber",
+    "description": "Yüksek mevkideki biriyle akraba olmak anlamına gelir."
+  },
+  {
+    "title": "Beş",
+    "description": "Dedikodular, boş sohbetler."
+  },
+  {
+    "title": "Beş Nokta",
+    "description": "Uzak bir yerden beklediğiniz haber nihayet geliyor."
+  },
+  {
+    "title": "Beşgen",
+    "description": "İşiniz hakkında verdiğiniz kararlardan dönmeyecek mutlu olacaksınız."
+  },
+  {
+    "title": "Beşik",
+    "description": "Yapmak istediği işin bir türlü olmaması. Aynı beşik gibi sallanması. Ortaklık gibi bir işe kalkmamak lazım. Zira o ay sadece beklemeye almak gerekir."
+  },
+  {
+    "title": "Beyin",
+    "description": "Mantığı ve aklı simgeler."
+  },
+  {
+    "title": "Biber",
+    "description": "Çevrede yalancı, düzenbaz ve haysiyetsiz insanların bulunduğuna ve onlardan uzak durulması gerektiğine işarettir."
+  },
+  {
+    "title": "Bilezik",
+    "description": "Evliliğe işarettir. Evli ise erkek çocuğa sahip olunacağına işarettir."
+  },
+  {
+    "title": "Bina",
+    "description": "Fal içersinde bina gördüğünüz zaman falı kapatan kişi herhangi bir taşınmaz alacaktır. Binanın koyuluk ve açıklığı kıymetini gösterir eğer koyu renkse çok kıymetli çok açık ve içi telvesiz ise oldukça maddi değeri düşük bir taşınmaz alınacak demektir."
+  },
+  {
+    "title": "Bir",
+    "description": "Sevilmek."
+  },
+  {
+    "title": "Birbirini Kesen Doğru Çizgiler",
+    "description": "İyi bir yaşam, zenginlik sizi bekliyor."
+  },
+  {
+    "title": "Bisiklet",
+    "description": "Yavaş gelen bir haber. Bu haber hem yavaş gelen yani çok önceden alınması gereken, artık hükmünü biraz kaybetmiş bir haber."
+  },
+  {
+    "title": "Bıçak",
+    "description": "Uzun süredir bitmeyen bir iş sonlanacak."
+  },
+  {
+    "title": "Bıyık",
+    "description": "Mal mülk edinmeye işarettir."
+  },
+  {
+    "title": "Böcek",
+    "description": "Her türlü sıkıntı ve üzüntüler. Böceğin büyüklük ve küçüklüğüne göre sıkıntı yorumu yapılabilir. Daha doğrusu benzetilen şeklin hane içinde ve dışında olması da çok önemlidir."
+  },
+  {
+    "title": "Boğa",
+    "description": "Kuvvetli ve seks gücünün yüksekliğini tasvir eder. Cinselliği çok yüksek derecededir. Erkek veya kadında çıkarsa da o kişiye biraz dikkat etmek gerekir. Ayrıcada zenginliğin de sembolüdür."
+  },
+  {
+    "title": "Bohça",
+    "description": "Uzak bir yerden beklenmeyen bir misafir gelmesi anlamına gelir."
+  },
+  {
+    "title": "Boncuk",
+    "description": "Küçük ama kalıcı bir mutluluğa işarettir."
+  },
+  {
+    "title": "Borazan",
+    "description": "Kötü bir olayın üstesinden gelmeye işarettir."
+  },
+  {
+    "title": "Boynuz",
+    "description": "Bazen farkında olmadan başkaları hakkında fikirlerinizi söylüyorsunuz; bunları dedikodu kabul etmeye yatkın insanlara dikkat."
+  },
+  {
+    "title": "Buğday",
+    "description": "Maddi açıdan elinizde bol miktarda para geçecek."
+  },
+  {
+    "title": "Buket",
+    "description": "Yeni tanışacağınız biri, fikrinizi çelip sizi kendine hayran bırakabilir."
+  },
+  {
+    "title": "Buldog Köpeği",
+    "description": "Çevrenizdeki dostların değerini bilin."
+  },
+  {
+    "title": "Bulut",
+    "description": "Gözyaşı dökecek, sonra da feraha kavuşacaksınız."
+  },
+  {
+    "title": "Burç",
+    "description": "Bir kale burcunda olmak; ağır hasta var ise öleceğine ya da içine bulunulan durumdan endişe duyulması gerektiğini işaret eder."
+  },
+  {
+    "title": "Burun",
+    "description": "Çevrenizdeki kariyer sahibi birinden yardım alacaksınız."
+  },
+  {
+    "title": "Büyük Bir Daire",
+    "description": "Kısa bir süre de olsa sizi sıkıntıya sokacak olaylar var."
+  },
+  {
+    "title": "Büyük Bir Kare",
+    "description": "Bir mal, mülk sahibi olacak fırsatlar size doğru geliyor."
+  },
+  {
+    "title": "Büyük Bir Nokta",
+    "description": "Sevindirici bir haber alacaksınız."
+  },
+  {
+    "title": "Buzdolabı",
+    "description": "Soğukluğun etrafa gelmesi. Eğer hane içersinde ise evde çok soğuk bir havanın estiği veya eseceği,hane dışında ise iş hayatı ile ilgili soğuk bir hava eseceği anlamına gelir."
+  },
+  {
+    "title": "Cadde",
+    "description": "Başarı, mutluluk ve işlerin yolunda gitmesine işarettir."
+  },
+  {
+    "title": "Cadı",
+    "description": "Üzücü, kırıcı tavırların ve beyanların sembolü olarak görülür."
+  },
+  {
+    "title": "Çadır",
+    "description": "Maddi haliniz her geçen gün gittikçe düzelecek, sıkıntılarınız bitecek."
+  },
+  {
+    "title": "Çakal",
+    "description": "Sizi kandıracak olan kişiler, üzülmenize neden olacak."
+  },
+  {
+    "title": "Çakı",
+    "description": "Aile arasında huzursuzluk ve geçimsizlik çıkacağına, mutluluğunuzun bozulacağına işarettir."
+  },
+  {
+    "title": "Çakmak",
+    "description": "Tehlikeye yaklaşma. Eğer yanan çakmaksa bir şey sebep olup ona yol gösterecek. Yanmayan çakmakta tehlike içinde her an olabilir."
+  },
+  {
+    "title": "Çalgı",
+    "description": "Uzun süredir sıkıntısını duyduğunuz bir problem pozitif sonuçlanacak."
+  },
+  {
+    "title": "Çalılık",
+    "description": "Kolay yoldan bir paraya sahip olacaksınız."
+  },
+  {
+    "title": "Çam Ağacı",
+    "description": "Dost olarak seçtiğiniz insanlara karşı bile tedbiri elden bırakmayın."
+  },
+  {
+    "title": "Çamaşır Makinası",
+    "description": "Tabii bu şekli görmek oldukça zordur. Ama fal bakan kişinin benzetmesi o ise geçerlide odur. İşlerin oldukça karışacağını gösterir. Hane içi ve hane dışında bakıp yorum ona göre yapılır."
+  },
+  {
+    "title": "Cambaz",
+    "description": "Bir sanatta başarılı olmak anlamına gelir."
+  },
+  {
+    "title": "Cami",
+    "description": "Kutsal değerlere biraz daha önem vermesi gerektiğinin işaretidir."
+  },
+  {
+    "title": "Çamur",
+    "description": "Fesatlığı bırakıp iyi bir insan olmak gerektiği anlamına gelir."
+  },
+  {
+    "title": "Çan",
+    "description": "Fincan ağzına yakınsa dilekleriniz gerçekleşecek, fincanın dibindeyse gerçekleşmeyecek."
+  },
+  {
+    "title": "Çanak",
+    "description": "Kısa süre sonra sevdiğiniz kişi ile mühim bir konuda konuşacaksınız."
+  },
+  {
+    "title": "Canavar",
+    "description": "Çevrenizde negatif niyetli kişiler var, dikkat etmelisiniz."
+  },
+  {
+    "title": "Çanta",
+    "description": "Elinize küçük bir miktar para geçebilir."
+  },
+  {
+    "title": "Çapa",
+    "description": "Yaşamınızın bundan sonraki döneminde başarı dolu günler sizi bekliyor; biraz daha gayret."
+  },
+  {
+    "title": "Çardak",
+    "description": "Bolluk ve bereketli günler yaşayarak ailenin ve diğer yakınların mutlu bir yaşam süreceğine delalettir."
+  },
+  {
+    "title": "Çarık",
+    "description": "Rahatlama ve sıkıntılardan kurtulma. Bunun dışında güzel hayırlı bir yolculuk anlamı da taşımaktadır. Faldaki görülme yeri ve duruş şekli çok mühümdür. Yoruma biraz açıktır."
+  },
+  {
+    "title": "Çark",
+    "description": "Bütün işlerin aksamadan gideceği anlamındadır."
+  },
+  {
+    "title": "Çarpı",
+    "description": "Çevrenizdeki bazı kişilerle anlaşmazlığınız olacak."
+  },
+  {
+    "title": "Çarşı",
+    "description": "Girişilen işten kazanç elde edileceği anlamına gelir."
+  },
+  {
+    "title": "Çatal",
+    "description": "İhaneti simgeler."
+  },
+  {
+    "title": "Çatallı Bir Çizgi",
+    "description": "Pozitif sonuçlanacak kararları almanın tam zamanıdır."
+  },
+  {
+    "title": "Çatı",
+    "description": "Önemsiz bir rahatsızlığa tutulacağı anlamına gelir."
+  },
+  {
+    "title": "Çatı Katı",
+    "description": "Bir rahatsızlığın ve üzüntünün yaşanacağı anlamına gelir."
+  },
+  {
+    "title": "Çatlak",
+    "description": "Duvarda çatlak; eve gelecek olan birinin evin huzurunu bozacağı anlamına gelir. Toprakta çatlak; birilerin can sıkacak olaylara sebebiyet vereceği anlamına gelir."
+  },
+  {
+    "title": "Çaydanlık",
+    "description": "Sosyal yaşantınızda büyük süprizler var neticede mutlu olacaksınız."
+  },
+  {
+    "title": "Ceket",
+    "description": "Sevdiğiniz biri ile aranız açılabilir."
+  },
+  {
+    "title": "Çekiç",
+    "description": "Bütün işlerinizde engeller karşınıza çıkacak ama iradenizle aşacaksınız."
+  },
+  {
+    "title": "Çekirdek",
+    "description": "Bir işe başlandığı anlamına gelir."
+  },
+  {
+    "title": "Çekirge",
+    "description": "İflasın ya da iflas kadar ağır darbelerin alameti olarak görülür."
+  },
+  {
+    "title": "Çekmece",
+    "description": "Ortaya çıkması istenmeyen olayların varlığına işarettir. Çekmece açık ise bu sırrın ortaya çıkacağı, kapalı ise itinayla saklandığı anlamına gelir."
+  },
+  {
+    "title": "Çelenk",
+    "description": "Zevk sahibi olunduğunu ama bunu çok abartılmaması gerektiği anlamına gelir."
+  },
+  {
+    "title": "Çember",
+    "description": "Antik çağlardan beri mükemmeliğin işaretidir."
+  },
+  {
+    "title": "Cenaze",
+    "description": "Hastanız varsa, iyileşecek. Yakında kısa bir yolculuk görünüyor."
+  },
+  {
+    "title": "Çene",
+    "description": "İş hayatında çalışkanlıktan dolayı başarıların gittikçe artacağına işarettir."
+  },
+  {
+    "title": "Çengel",
+    "description": "İçinde bulunduğunuz sıkıntılar kısa bir süre sonra bitecek."
+  },
+  {
+    "title": "Çengelli İğne",
+    "description": "İş ya da gönül ilişkilerinde ciddi bir döneme gireceğinize işarettir."
+  },
+  {
+    "title": "Cenin",
+    "description": "Üzüntüler ve sıkıntılardan dolayı işlerle yeteri kadar ilgilenilmediğine ve mali zorluklar yaşanacağı anlamına gelir."
+  },
+  {
+    "title": "Çerçeve",
+    "description": "Tanışılacak makam sahibi biriyle dostluk kurulacağına işarettir."
+  },
+  {
+    "title": "Çeşme",
+    "description": "Çok kısa bir zaman sonra sevindirici bir haber alacaksınız."
+  },
+  {
+    "title": "Cetvel",
+    "description": "İş yaşantınızda problemler çıkmaya başlayacaktır."
+  },
+  {
+    "title": "Ceviz",
+    "description": "Sevdiklerinizle mutlu olmaya bakmalısınız, mutluluk sizin elinizde."
+  },
+  {
+    "title": "Çeyiz",
+    "description": "Sağlığa ve yeni eşyalara işarettir."
+  },
+  {
+    "title": "Ceylan",
+    "description": "Bekar iseniz ufukta evlilik görünüyor, evli iseniz iyi haber sizi bekliyor."
+  },
+  {
+    "title": "Cezve",
+    "description": "Yakın arkadaşların bir takım dedikodularına katlanmak zorunda kalınacak."
+  },
+  {
+    "title": "Cibinlik",
+    "description": "Kadınlarda genellikle üzüntüye işarettir."
+  },
+  {
+    "title": "Çiçek",
+    "description": "İçerisinde bulunduğunuz öfkeyi artık bırakmalısınız."
+  },
+  {
+    "title": "Çiftlik",
+    "description": "Sıkıntılardan arınma ve rahata kavuşma. Bunu görmek çok iyidir. Falda sıkıntılarından tamamen arınmış insanların falında bu oldukça net olarak görülür."
+  },
+  {
+    "title": "Ciğer",
+    "description": "Bir hasta ziyaretine gidebilirsiniz."
+  },
+  {
+    "title": "Çilek",
+    "description": "Çabaların karşılığında belirli bir kazanca ya da önemsiz rahatsızlıklara işarettir."
+  },
+  {
+    "title": "Çingene",
+    "description": "Yolculuğa ya da yeni bir aşka yorumlanır."
+  },
+  {
+    "title": "Çit",
+    "description": "Yeni bir eve sahip olmanın getirdiği mutluluğa, özgüvenin artacağına işarettir."
+  },
+  {
+    "title": "Civciv",
+    "description": "Erken yaşlarda iş hayata atılmanın göstergesidir."
+  },
+  {
+    "title": "Çivi",
+    "description": "Çevrenize karşı duyduğunuz öfkeyi artık bırakmalısınız."
+  },
+  {
+    "title": "Çizgi",
+    "description": "Sağlınıza dikkat edin."
+  },
+  {
+    "title": "Çizme",
+    "description": "Sertlik ifadesidir. Karşılaşacağı insanlar biraz sert ve disiplinli insanlar olabilir. İş hayatında özellikle dikkat etmesi gerektiğinin işaretidir."
+  },
+  {
+    "title": "Çıban",
+    "description": "Karmakarışık ve yasal olmayan işlere karışılacağı anlamına gelir."
+  },
+  {
+    "title": "Çığ",
+    "description": "Başına çok yakınlarda dert geleceğine ve zorluklar yaşanacağına işarettir."
+  },
+  {
+    "title": "Cımbız",
+    "description": "Çok yakın bir dostunuzun bir davranışından üzüntü duyacaksınız."
+  },
+  {
+    "title": "Çınar",
+    "description": "Falın sahibinin hayatı uzun süreli olacağına, maddi ve manevi varlıklarının sürekli artacağına işarettir."
+  },
+  {
+    "title": "Çıplak",
+    "description": "İç dünyadaki arınmışlığa ve yapılan hatalardan pişmanlık duymaya işarettir. Kalabalık içinde çıplaklık; hatalardan dolayı kötü duruma düşüleceği anlamına gelir."
+  },
+  {
+    "title": "Cıvata",
+    "description": "İşlerinizi çok daha sıkı takip etmeniz gerekiyor."
+  },
+  {
+    "title": "Çoban",
+    "description": "Belli bir ortamda mal sahibi olunacağına işarettir."
+  },
+  {
+    "title": "Çocuk",
+    "description": "Büyük sevinç. Saflık. Güzelliği temsil eder. Özellikle koşar halde çocuk görmek alınacak sevincin tez zamanda olacağını gösterir."
+  },
+  {
+    "title": "Çocuk Arabası",
+    "description": "Umulmadık derecede rahat bir yaşam sürüleceği anlamına gelir."
+  },
+  {
+    "title": "Çöl",
+    "description": "Hayatı kendi doğrularıyla yaşamaya; dış etkilerden uzak; sıkıntı, şiddet ve tasadan kurtularak rahata kavuşmaya işarettir."
+  },
+  {
+    "title": "Çömlek",
+    "description": "Rızkını ailesinden ve yakınlarından gizlemeyen insana delalettir. Kanaat ve başarının da işaretidir."
+  },
+  {
+    "title": "Çorap",
+    "description": "Tek başına çorap görmek sıkıntıların çok yaklaşmış olup yavaş yavaş içinde hissetmeye başlamanın stresini girmek anlamı taşır."
+  },
+  {
+    "title": "Cübbe",
+    "description": "Her türlü iyi yorumlanır. Rütbenin, dürüstlüğün, dindarlığın simgesidir."
+  },
+  {
+    "title": "Cüce",
+    "description": "Gözünüzde büyüttüğünüz bir olayı kolay çözeceksiniz."
+  },
+  {
+    "title": "Çukur",
+    "description": "Yaşam tarzının artık bir düzene sokulması gerektiğine, sorumluluk üstlenmenin zamanının geldiğine işarettir."
+  },
+  {
+    "title": "Çuval",
+    "description": "Gizlenen ve saklanan bir şeyin muhafızıdır. Emanet edilen kişinin veya yerin güvenilir olduğunu gösterir."
+  },
+  {
+    "title": "Cüzdan",
+    "description": "Bir müddet için sırlarınızı en yakın dostunuza bile açmamalısınız."
+  },
+  {
+    "title": "Dağ",
+    "description": "Macera arzusu duymak veya maceralı bir seyahat yapılacağını,biraz arada hafif tehlikeler atlatacağını ama herhangi bir zarar görmeyeceğini tasvir eder."
+  },
+  {
+    "title": "Dal",
+    "description": "Çiçekli dal ise arzularınız biraz sabırlı olmanız neticesinde yerine gelecek."
+  },
+  {
+    "title": "Dalga",
+    "description": "Şiddetli bir sıkıntıya düşüleceği anlamına gelir."
+  },
+  {
+    "title": "Damat",
+    "description": "Damadı olmayanlar için başarıya ulaşmak demektir. Eğer var ise çevreden yakın birinin hainliği ve nankörlüğü yüzünden zarar görüleceğinin işaretidir."
+  },
+  {
+    "title": "Damla",
+    "description": "Su damlası; bereketin sürekli bol ve bu bolluk içerisinde, kanaatkar bir insan olarak yaşanılacağı anlamına gelir."
+  },
+  {
+    "title": "Dana",
+    "description": "Çevrenin ve yakınların saygısını, sevgisini ve güvenini kazanıp, kendisini maddi açıdan rahatlığa ve mutluluğa eriştireceğine işarettir."
+  },
+  {
+    "title": "Dans",
+    "description": "Çevrenizdeki insanların sıkıntı, dertleri artacak, sizde üzülebilirsiniz."
+  },
+  {
+    "title": "Dansöz",
+    "description": "Sıkıntılı geçen dönemin sona ereceğine sevindirici ve eğlenceli günlerin arifesinde olunduğu anlamına gelir."
+  },
+  {
+    "title": "Dantel",
+    "description": "Dantele benzer motifler görmek; bir şeylerin yolunda gitmeyeceğini ve bu yüzden maddi açıdan sıkıntılı günler geçirileceğine işarettir."
+  },
+  {
+    "title": "Dar",
+    "description": "Dar ve kapalı bir yerde kalmış bir figür; iyiye yorulmaz. Sıkıntıların ve kararsızlıkların arasında kalınacağına işarettir."
+  },
+  {
+    "title": "Darağacı",
+    "description": "Falına bakılan kişinin ya da bir yakının iş hayatında karşılaşacağı bir tehlikenin işaretidir."
+  },
+  {
+    "title": "Davul",
+    "description": "Sizin nazarında değersiz bir haber alacaksınız, haberi getirene de dikkat."
+  },
+  {
+    "title": "Davulcu",
+    "description": "Yakın zamanda alınacak saçma bir habere işarettir."
+  },
+  {
+    "title": "Dede",
+    "description": "Yakınların arasından çok sevilen ve hürmet gören kişinin ziyaretine işarettir."
+  },
+  {
+    "title": "Def",
+    "description": "Uğursuzluk, üzüntü, negatif olaylar ve beraberinde kederle karşılaşacaksınız. Sağduyunuzla aşacaksınız."
+  },
+  {
+    "title": "Define",
+    "description": "Hiç beklenilmeyen bir anda para ya da bir mirasa işarettir."
+  },
+  {
+    "title": "Defter",
+    "description": "Falına bakılan kişi işsiz ise iş bulacağına, bir işi varsa mevcut gelirinin kısa zaman içinde artacağına işaret eder."
+  },
+  {
+    "title": "Değirmen",
+    "description": "Aile halkının sıkıntı ve darlıktan kurtularak bolluk ve bereket kavuşmasına ya da evlenmeye işaret eder."
+  },
+  {
+    "title": "Değnek",
+    "description": "Kuvvet, cesaret, şeref ve kendine güvene işarettir."
+  },
+  {
+    "title": "Demet",
+    "description": "Hediyeyi temsil eder."
+  },
+  {
+    "title": "Demiryolu",
+    "description": "Çok uzun bir yola gidecek. Sürekli uzun bir müddet seyahat edecek. Bu seyahati kendisi ve çevresi içinde çok hayırlı bir seyahat olacak."
+  },
+  {
+    "title": "Deniz",
+    "description": "Ruhu sükûn içinde olacak ve rahat edecek. Son derece düşüncelerinden arınmış rahat bir şekilde hareket edecek. Sıkıntıdan oldukça uzakta olacak."
+  },
+  {
+    "title": "Denizaltı",
+    "description": "Tatile çıkma isteğiniz gerçekleşebilir."
+  },
+  {
+    "title": "Denizkızı",
+    "description": "Çevrenizde sizi aldatan insanlar var dikkat."
+  },
+  {
+    "title": "Dere",
+    "description": "Daha çok dünyanın manevi yönleriyle ilgilenildiğine, maddiyatın hep hayatı idame ettirecek düzeyde kalacağına işarettir."
+  },
+  {
+    "title": "Derviş",
+    "description": "Sevindirici bir haber alınacağına ve olgunluğun artacağına işarettir."
+  },
+  {
+    "title": "Dev",
+    "description": "İş yaşantınızda, sosyal yaşantınızda büyük gelişmeler olacak."
+  },
+  {
+    "title": "Deve",
+    "description": "Çok büyük bir kısmet. Eskilerinde hep anlattıkları, büyük bir yükten bahsederken deve yükü diyerek (Tabii o zaman tır yokmuş) oldukça büyük bir yükü anlatmaya çalışırlardı. İşte bu gelen kısmette para anlamı taşıyan veya çok iyi bir evlenme teklifi olabileceği şeklinde yorumlanabilir."
+  },
+  {
+    "title": "Devekuşu",
+    "description": "Hiç ummadığınız bir paraya kavuşabilirsiniz."
+  },
+  {
+    "title": "Dik Ve Kalın Bir Çizgi",
+    "description": "Çok faydalı bir seyahate çıkacaksınız."
+  },
+  {
+    "title": "Diken",
+    "description": "Üzüntü, tasalarınızdan kurtulacaksınız, borçlarınızı rahat ödeyeceksiniz."
+  },
+  {
+    "title": "Dikilitaş",
+    "description": "Yakın zamanda bir yolculuğa çıkacaksınız."
+  },
+  {
+    "title": "Dil",
+    "description": "Dedikoduya işarettir. Küçük dil; akıl ve zaman iyi kulllanılırsa makam ve mevki sahibi olunacağına işarettir. Büyük dil; aile içinde aşırı bir şekilde eleştirildiğine ve başkalarının yanında da küçük düşüreleceğine işarettir."
+  },
+  {
+    "title": "Dilenci",
+    "description": "Tembellikten dolayı işlerde başıboş bir şekilde davranıldığına işarettir. Yetenekli ve öğrenmeye yatkın bir insana istediği olanakların verilmesi halinde başarıya ulaşacağına işarettir."
+  },
+  {
+    "title": "Dinazor",
+    "description": "Dinazor yaşlanmış olmayı sembolize eder. Çok yorulmanın da bir ifadesidir. Ayrıza çok eskilerden bir haber geleceği, bu haberle sevinileceği anlamını taşır."
+  },
+  {
+    "title": "Direk",
+    "description": "Ailenin bütün sorumluluğunu alan kişiyi temsil eder. Ailenin ve yakınların sorumluluklarını üstlendiğine elinden geldiğince herkese destek olunduğuna işarettir."
+  },
+  {
+    "title": "Diş",
+    "description": "Acı çekmek. Özellikle fiziksel acılar. Ufak tefek bir kaza anlamına gelebilir. Çok fazla zarar görülecek bir şey değildir."
+  },
+  {
+    "title": "Diş Fırçası",
+    "description": "Özel yaşantınızda negatif bir olay yaşayabilirsiniz."
+  },
+  {
+    "title": "Divit",
+    "description": "Her alanda başarıya ve bu başarının getirdiği itibara, şerefe ve eşe işaret eder."
+  },
+  {
+    "title": "Doğum",
+    "description": "Yakınlarda sevindirici bir haber alınacağına işarettir."
+  },
+  {
+    "title": "Doktor",
+    "description": "Tüm sıkıntılarınızdan, dertlernizden nihayet kurtuluyorsunuz."
+  },
+  {
+    "title": "Dokuz",
+    "description": "Yeni insanlarla tanışmak."
+  },
+  {
+    "title": "Dolap",
+    "description": "Lükse aşırı para harcandığının sembolüdür."
+  },
+  {
+    "title": "Dolma Kalem",
+    "description": "Devlet dairesinde ki işiniz yeni birinin yardımı ile halledilecek."
+  },
+  {
+    "title": "Dolunay",
+    "description": "Sizi yakın bir zamanda mutlu, huzurlu yeni bir aşk bekliyor."
+  },
+  {
+    "title": "Domuz",
+    "description": "Kıskançlık içinde olan ve karşı tarafa bir hainlik beslenmiş manasına gelir. Kendisi kıskanç olmayan bir hayvandır. Dinimizde de eti yenmeyen bir hayvan olduğundan bu hayvanın falda gözükmesi çok iyi bir şeye yorumlamak mümkün değildir."
+  },
+  {
+    "title": "Dört",
+    "description": "Şansınıza güvenin."
+  },
+  {
+    "title": "Dörtgen",
+    "description": "Sıkıntılı, oldukça zor bir çalışma dönemine giriyorsunuz."
+  },
+  {
+    "title": "Dörtyol Ağzı",
+    "description": "Hayatta dönüm noktası özelliğine sahip bir olay yaşanacağına, kendi düşünceleri doğrultusunda ilerlemesi gerektiğine işarettir."
+  },
+  {
+    "title": "Dövme",
+    "description": "Hareketli ve dışa dönük bir dönemi temsil eder. Cesur ve hareketli günlerin sizi beklediğini gösterir."
+  },
+  {
+    "title": "Dövüş",
+    "description": "Mücadelenin simgesidir. Bir konu hakkında mücadele edileceğini gösterir."
+  },
+  {
+    "title": "Dua Eden İnsan",
+    "description": "Ellerini açıp dua eden kişiyi görmek dualarını tümünün kabul olunacağı anlamı taşır."
+  },
+  {
+    "title": "Dudak",
+    "description": "Bir eşyanızı kaybedebilirsiniz."
+  },
+  {
+    "title": "Düdük",
+    "description": "Hayırlı bir haber kısa sürede alacaksınız."
+  },
+  {
+    "title": "Düğme",
+    "description": "Bekar iseniz evlilik, evli iseniz sosyal aile hayatınız düzene girecek."
+  },
+  {
+    "title": "Düğüm",
+    "description": "Problemleri büyümeden çözmeye çalışmalısınız."
+  },
+  {
+    "title": "Düğün",
+    "description": "Evlenme olabilir, sünnet olabilir. İkisinin de olmaması durumunda geleneklere bağlı bir karakteri temsil eder."
+  },
+  {
+    "title": "Dümen",
+    "description": "Aşk hayatınızla alakalı olarak sevgi dolu günler sizi bekliyor."
+  },
+  {
+    "title": "Dürbün",
+    "description": "Uzun süredir neticesini merak ettiğiniz girişim lehinize sonuçlanıyor."
+  },
+  {
+    "title": "Düşmek",
+    "description": "Temkinli davranmak gerektiğinin işaretidir. Yüksekten düşmek; iyi bir durumdayken sıkıntıya düşüleceği anlamındadır. Suya düşmek; ölüm tehlikesi geçireleceği anlamındadır."
+  },
+  {
+    "title": "Dut",
+    "description": "Bol kazanç getirecek işe gireceksiniz."
+  },
+  {
+    "title": "Duvak",
+    "description": "İyi şeylere yorumlanır. İsteklerin en kısa zamanda gerçekleşerek murada erişileceği anlamına gelir."
+  },
+  {
+    "title": "Duvar",
+    "description": "Düşüncelerin yanlış olduğunu söyleyerek alınan karardan caydırılmaya çalışılacağına ya da bilinmeyen konular hakkında fikir yürütmemek gerektiği anlamına gelir."
+  },
+  {
+    "title": "Duvar Saati",
+    "description": "Bugünlerde işiniz pozitif yönde yolunda gidecek."
+  },
+  {
+    "title": "Düz Bir Çizgi",
+    "description": "Sıkıntılı bir yolculuk yapabilirsiniz."
+  },
+  {
+    "title": "Ebe",
+    "description": "Bir evlada işarettir."
+  },
+  {
+    "title": "Efe",
+    "description": "Mertliğe ve dürüstlüğe işarettir."
+  },
+  {
+    "title": "Ejderha",
+    "description": "Büyük ve güçlü bir düşmanınızın varlığına işarettir."
+  },
+  {
+    "title": "Ekin",
+    "description": "Ekin tarlası görmek; bolluğa ve berekete işarettir. Ekin ekmek; maddi sıkıntılarla uğraşılacağı anlamına ya da evli ise bir evlada bekar ise evliliğe işarettir. Ekin biçmek; zorlukları yenerek işlerin artacağına ve rızkın bollaşacağına işarettir."
+  },
+  {
+    "title": "Ekmek",
+    "description": "Çok yakında arzulara ve isteklere kavuşulacağına; bolluğa ve berekete yorumlanır ya da düzenli ve huzurlu bir evliliğe işarettir."
+  },
+  {
+    "title": "El",
+    "description": "İki anlamı vardır. Tokalaşan el barışı sembolize eder. Yukarıya doğru açılan el tadım almanın işaretidir."
+  },
+  {
+    "title": "El Arabası",
+    "description": "Az olan bir kısmeti bir yerden bir yere götürülecek anlamı taşır."
+  },
+  {
+    "title": "Elbise",
+    "description": "Kısa bir süre sonra maddi istekleriniz gerçekleşecektir."
+  },
+  {
+    "title": "Eldiven",
+    "description": "Çok sevdiğiniz bir dostunuz sizi ziyarete gelecektir."
+  },
+  {
+    "title": "Elek",
+    "description": "Saçma sapan gereksiz düşüncelerle kafanın meşgul edildiğine ve bu huydan vazgeçilmesi gerektiğine işarettir."
+  },
+  {
+    "title": "Elma",
+    "description": "Bir devlet büyüğünün iyiliğini göreceksiniz."
+  },
+  {
+    "title": "Elma Ağacı",
+    "description": "Huzurlu ve mutlu bir döneme girildiğine ve yeni bir gönül macerasına girileceğine işarettir."
+  },
+  {
+    "title": "Emzik",
+    "description": "Aklınızdan bir türlü çıkamayan eski anıları unutup, mutlu olmalısınız."
+  },
+  {
+    "title": "Enkaz",
+    "description": "Kimselere iyilik yapılamamasına, eli sıkı ve bencil olunmasına ve bundan dolayı da rahatsızlık duyularak vicdan azabı çekileceğine işarettir."
+  },
+  {
+    "title": "Erkek",
+    "description": "Sevdiğiniz kişinin dürüstlüğüne ve güvenine inanmalısınız."
+  },
+  {
+    "title": "Erkek Başı",
+    "description": "Kısmetinizin acılacağına ve bir yakınınızdan iyilik göreceğinize yorumlanır."
+  },
+  {
+    "title": "Erkek Çocuk",
+    "description": "Kısa bir sürede müjdeli bir haber alabilirsiniz."
+  },
+  {
+    "title": "Eşek",
+    "description": "Bu hayvancağız hayatında bütün yükü çektiği gibi faldaki sembolde de bütün yükü sırtında taşıyan ve ayni zamanda atasözüne uyan bir davranışta bulunuyor anlamına gelir."
+  },
+  {
+    "title": "Eşik",
+    "description": "Sadık ve güzel bir eş anlamına gelir."
+  },
+  {
+    "title": "Eşya",
+    "description": "Yakın gelecekte, hayatta yaşanacak olumlu değişmelere dair işaretler olarak görülür."
+  },
+  {
+    "title": "Ev",
+    "description": "Hastalıklardan, sıkıntılardan nihayet kurtuluyorsunuz."
+  },
+  {
+    "title": "Eyer",
+    "description": "Cazibeli ve akıllı bir kadına işarettir."
+  },
+  {
+    "title": "Fabrika",
+    "description": "Dünya nimetlerine ve karlı ticari yatırımlara işarettir."
+  },
+  {
+    "title": "Falaka",
+    "description": "Birisi tarafından dolandırılmaya ya da korkuya kapılmaya ancak çabuk toparlanılacağına işarettir."
+  },
+  {
+    "title": "Faraş",
+    "description": "Size yakın birisinin çıkardığı bir problem sizi üzecektir."
+  },
+  {
+    "title": "Fare",
+    "description": "Sessiz ve sakinliği ifade eder. Hiç kimseye dokunmayan ve ayni zamanda rahatsızlık vermeyen tehlikesiz."
+  },
+  {
+    "title": "Fasulye",
+    "description": "Maddi beklentilerin karşılanamamasını işaret eder."
+  },
+  {
+    "title": "Fener",
+    "description": "Mutluluk dolu günler sizi çok yakında ziyaret edecek."
+  },
+  {
+    "title": "Fermuar",
+    "description": "Artık düzenli bir hayata ihtiyaç duyulduğuna işarettir."
+  },
+  {
+    "title": "Fes",
+    "description": "Yakın bir zamanda hayırlı bir iş için yolculuğa çıkabilirsiniz."
+  },
+  {
+    "title": "Fidan",
+    "description": "Bereketli bir yıl geçirileceğine işarettir."
+  },
+  {
+    "title": "Fil",
+    "description": "Çok iyi bir iş teşebbüsünde bulunmayı tasvir eder. Hakkında çok hayırlı bir teşebbüste bulunacak demektir."
+  },
+  {
+    "title": "Fildişi",
+    "description": "Elinizdeki değerlerin kıymetini bilin."
+  },
+  {
+    "title": "Fincan",
+    "description": "Size anlatılanlara sakın ola ki inanmayın."
+  },
+  {
+    "title": "Firavun",
+    "description": "Kalıcı başarılara imza atılacağının, ama bu yapılırken kul hakkı yenileceğinin ve manen huzurun çok uzak olduğunun işaretidir."
+  },
+  {
+    "title": "Fiyonk",
+    "description": "Yakında mutlu bir olay var, söz kesme, nişan gibi."
+  },
+  {
+    "title": "Fıçı",
+    "description": "Tuttuğunuz şeyler adeta altına dönüşüyor, etrafınızdaki kişiler de yararlansın."
+  },
+  {
+    "title": "Fındık",
+    "description": "Kendinizi aşırı derecede dedikoduya kaptırmışsınız dikkatli olun."
+  },
+  {
+    "title": "Fırça",
+    "description": "Can sıkan şeylerden kurtulmaya işarettir."
+  },
+  {
+    "title": "Fırtına",
+    "description": "Hiç beklenmedik değişikler olacağına ve şaşkınlığa düşüleceğine işarettir."
+  },
+  {
+    "title": "Fıskiye",
+    "description": "Gönül hayatının çok hareketli geçeceğine ve para durumunun çok parlak olacağına yorumlanır."
+  },
+  {
+    "title": "Fıstık",
+    "description": "İşinizi ihmal edip, lüzumsuz işlerle uğraşıyorsunuz."
+  },
+  {
+    "title": "Fok",
+    "description": "İyilik ve sevimlilik anlamındadır. Balık olduğu içinde kısmeti tasvir eder."
+  },
+  {
+    "title": "Fok Balığı",
+    "description": "Hiç beklemediğiniz bir mirasa konacaksınız."
+  },
+  {
+    "title": "Füze",
+    "description": "Çok enerjik olunacağını veya çok sansasyonel bir haber alınacağına delalet eder."
+  },
+  {
+    "title": "Gaga",
+    "description": "Gereksiz konuşmalar yapıyorsunuz, çok dinleyip, az konuşmalısınız."
+  },
+  {
+    "title": "Gala",
+    "description": "Gereksiz konuşmalar yapıyorsunuz. Geveze biri olduğunuza yorumlanır."
+  },
+  {
+    "title": "Gayda",
+    "description": "Yurtdışı ile arada bağlantı olduğuna işarettir."
+  },
+  {
+    "title": "Gazete",
+    "description": "Çok yakın zamanda kendinizi bazı olayların içinde bulabilirsiniz."
+  },
+  {
+    "title": "Gelin",
+    "description": "Sizi mutlu edecek bir şey kapınızda adeta sizi bekliyor."
+  },
+  {
+    "title": "Gelin Ve Damat",
+    "description": "Bütün dilekleriniz nihayetinde gerçek olacaktır."
+  },
+  {
+    "title": "Gelincik",
+    "description": "Çok seveceğiniz birisi ile yakın zamanda karşılaşacaksınız."
+  },
+  {
+    "title": "Gemi",
+    "description": "Rahat ve huzurlu bir seyahate çıkılacağının işaretidir. Bu seyahat sırasında sağlığı ile ilgili hiç bir problem yaşamayacağı gibi. Daha sonrada epeyce bir zaman sağlığı son derece yerinde olacak."
+  },
+  {
+    "title": "Gerdanlık",
+    "description": "Aşk yaşantınızda sıkıntılar baş gösterebilir."
+  },
+  {
+    "title": "Geyik",
+    "description": "Üzüntülü ve hüzünlü bir haber geleceğine işarettir. Bu haberin sonunda o kişi evli ise evliliğinin oldukça rahatsız edici bir sarsıntı geçireceğini anlatmaktadır."
+  },
+  {
+    "title": "Girdap",
+    "description": "Talihsiz günler geçirileceğine bundan dolayı da üzüntülere ve sıkıntılara maruz kalacağına işarettir."
+  },
+  {
+    "title": "Gitar",
+    "description": "Eğlenceli bir ortamda bulunulacak. Bu düğün ,nişan veya bir kutlama olabilir. Ama son derece mutlu bir ay geçirecek."
+  },
+  {
+    "title": "Giyotin",
+    "description": "Aynı pozisyondaki arkadaşların arasından sıyrılarak, işte yükselmeye ve büyük atılımlarda bulunmaya işarettir."
+  },
+  {
+    "title": "Gırtlak",
+    "description": "Birçok dedikoduya muhatap kalınacağına ve bunlara açıklık getirilmek zorunda olunacağına işarettir."
+  },
+  {
+    "title": "Göbek",
+    "description": "Sevgilisiyle mutlu bir beraberliğe işarettir."
+  },
+  {
+    "title": "Göbek Taşı",
+    "description": "İşlerin yoğunluğundan dolayı sağlığın ihmal edildiğine ve bir rahatsızlık yaşanabileceğine işarettir."
+  },
+  {
+    "title": "Göç",
+    "description": "Bir olaydan dolayı endişe dyulacağına ve hayatında önemli bir değişiklik yapılacağına işarettir."
+  },
+  {
+    "title": "Göğüs",
+    "description": "İtimat ettiğiniz bir kişinin öğütlerinden faydalanıldığı anlamına gelir."
+  },
+  {
+    "title": "Gök",
+    "description": "Darlıktan bolluğa geçileceği anlamındadır."
+  },
+  {
+    "title": "Göl",
+    "description": "Son derece mutlulukla baş başa olunacağını. Romantik bir ay yaşayacağı ve son derece sağlıklı bir ay geçireceğidir."
+  },
+  {
+    "title": "Gölge",
+    "description": "İtibarlı ve haysiyetli birinin yanına girileceğine ve ondan büyük faydalar görüleceğine işarettir. Bir ağacın gölgesinde uzanmak; refah ve huzura işarettir."
+  },
+  {
+    "title": "Gömlek",
+    "description": "Kısa zamanda rahata ve huzura kavuşmak anlamına gelir."
+  },
+  {
+    "title": "Gömmek",
+    "description": "Cenazeye işaret edebileceği gibi falın geneline göre farklı anlamlar taşıyabilir."
+  },
+  {
+    "title": "Gondol",
+    "description": "Bir yolculuğa ve buna bağlı olarak da bir gönül serüveni yaşanılacağına işarettir."
+  },
+  {
+    "title": "Gonk",
+    "description": "Aileden ya da komşulardan birinin nikah törenine katılınacağına işarettir."
+  },
+  {
+    "title": "Gönye",
+    "description": "Mesleği simgeler."
+  },
+  {
+    "title": "Goril",
+    "description": "Uyanık ve düzenbaz birinin kandırmak için etrafta dolandığına işarettir."
+  },
+  {
+    "title": "Göz",
+    "description": "Nazar ve negatif enerji ile rahatsız edildiğini ifade etmektedir. Bu kişide her türlü bela ile sık sık karşılaşabilir. Eğer nazara inanıyorsa kurşun döktürerek bundan kurtulabilir."
+  },
+  {
+    "title": "Gözlük",
+    "description": "Memursanız yükseleceksiniz, çocuklarınız başarılı olacak."
+  },
+  {
+    "title": "Gözyaşı",
+    "description": "Sevinçli bir habere işarettir."
+  },
+  {
+    "title": "Gül",
+    "description": "Uzun süredir görmediğiniz bir kişi ile buluşup konuşacaksınız. Sevindirici haber var."
+  },
+  {
+    "title": "Gül Ağacı",
+    "description": "Dileklerin kabul olacağına işarettir."
+  },
+  {
+    "title": "Güneş",
+    "description": "Rahatlama ve çok güzel alınacak bir haber. Aydınlığın bol olması gerek fiziksel ve gerekse ruhsal olarak rahatlayacak anlamı taşımaktadır."
+  },
+  {
+    "title": "Güreş",
+    "description": "Mücadele edilen alanda büyük başarılar kazanılacağına işarettir."
+  },
+  {
+    "title": "Güvercin",
+    "description": "Çok mutlu bir haber ve barışma. Tabii küslük var ise daha ziyade flört edenler için daha çok geçerlidir."
+  },
+  {
+    "title": "Haç",
+    "description": "Hasta ve hastalıkla ilgili süreç. Bu haç çıktığı zaman falı bakılan insan değişik güçlerle rahatsız ediliyor anlamı taşır. Bu kişi inancı zayıf bir insansa biraz daha ibadetine yönelmesi tavsiye edilir."
+  },
+  {
+    "title": "Hakim",
+    "description": "Bütün negatif alışkanlıklardan aniden kurtulmaya karar vereceksiniz."
+  },
+  {
+    "title": "Halat",
+    "description": "Güce ve kudrete yorumlanır."
+  },
+  {
+    "title": "Halhal",
+    "description": "Süse ve güzelliğe önem verildiğine işarettir."
+  },
+  {
+    "title": "Halı",
+    "description": "Yaşam standartlarının artacağına işarettir."
+  },
+  {
+    "title": "Halka",
+    "description": "Kısa sürede sevindirici bir haber alacaksınız."
+  },
+  {
+    "title": "Hamak",
+    "description": "Huzurlu ve dinlendirici bir tatilin habercisidir."
+  },
+  {
+    "title": "Hamal",
+    "description": "Ortamında sözü geçen itibarlı bir kimseye işaret eder."
+  },
+  {
+    "title": "Hamam",
+    "description": "Ateşli bir hastalık geçirileceğine işarettir."
+  },
+  {
+    "title": "Hamile",
+    "description": "Kısa sürede nakit paraya kavuşulacağına ve hayırlı bir çocuğa işarettir."
+  },
+  {
+    "title": "Han",
+    "description": "Maddi, manevi ve sıhhat açısından rahat bir yaşantısının simgesidir."
+  },
+  {
+    "title": "Hançer",
+    "description": "Çevrenizde sizi tehlikeye düşürmek isteyen insanlar var."
+  },
+  {
+    "title": "Hapishane",
+    "description": "Yoğun vicdan azabı duyulacak bir olaya işarettir."
+  },
+  {
+    "title": "Harabe",
+    "description": "Mistik güçlerin simgesidir."
+  },
+  {
+    "title": "Harita",
+    "description": "Uzun bir yolculuğa işarettir."
+  },
+  {
+    "title": "Harp",
+    "description": "Sıkı çalışma düzenine alışık olunmadığından verimin düşeceğine işarettir."
+  },
+  {
+    "title": "Hasır",
+    "description": "Başarılar neticesinde yüksek bir makama erişileceği anlamına gelir."
+  },
+  {
+    "title": "Hastane",
+    "description": "Patavatsız hareketlerle hem kendi itibarını hem de ailenin tehlikeye atılacağına işarettir."
+  },
+  {
+    "title": "Hattat",
+    "description": "Karşılaşılan kötü bir olayın nedenini araştırmadan kader diye kabullemenin yanlış olduğuna işarettir."
+  },
+  {
+    "title": "Havai Fişek",
+    "description": "Kutlama. Çok güzel bir tören veya eğlence olacak."
+  },
+  {
+    "title": "Havan",
+    "description": "Boş ve batıl itikatlara inanmamak gerektiğine çünkü doğrunun ve gerçeğin en sağlam düşünceyi oluşturduğuna işarettir."
+  },
+  {
+    "title": "Havlu",
+    "description": "Aileden veya yakınlardan birine maddi zarar vereceğinize işarettir."
+  },
+  {
+    "title": "Havuç",
+    "description": "Hastaysanız kısa sürede iyileşeceksiniz. Sağlıklı iseniz, kendinize baktığınız sürece bu durum kolay kolay bozulmayacak."
+  },
+  {
+    "title": "Havuz",
+    "description": "Yüklü bir paraya kavuşarak rahat ve huzurlu bir hayat sürüleceğine işarettir."
+  },
+  {
+    "title": "Hayvan",
+    "description": "Sevdiğiniz kişi ile beraber zor bir iş başaracaksınız."
+  },
+  {
+    "title": "Hazine",
+    "description": "Düşündüğünüz işte oldukça başarılı olacaksınız, cesaretle devam edin."
+  },
+  {
+    "title": "Helikopter",
+    "description": "Orta büyüklükte alınacak bir haber. Bu tüm ev halkını da ilgilendirecek bir haber olabilir."
+  },
+  {
+    "title": "Hemşire",
+    "description": "Çok sağlam saklanan bir sırrın sembolüdür."
+  },
+  {
+    "title": "Hendek",
+    "description": "Bir olaydan dolayı üzüntü ve sıkıntı yaşanacağı anlamına gelir. Atlatılması zor olacak bir döneme işarettir."
+  },
+  {
+    "title": "Heybe",
+    "description": "Sizi sıkıntıya sokabilecek yüklü bir para elinizden çıkabilir."
+  },
+  {
+    "title": "Heykel",
+    "description": "Kısa bir süre içinde yüklü bir paraya kavuşulacağına işarettir."
+  },
+  {
+    "title": "Hilal",
+    "description": "Sizi oldukça sevindirecek bir haber alacaksınız."
+  },
+  {
+    "title": "Hindi",
+    "description": "Girişeceğiniz hemen her işte şansınız sizinle birlikte olacaktır."
+  },
+  {
+    "title": "Hipodrom",
+    "description": "Kumara olan düşkünlüğe ya da kazanılması gereken bir mücadeleye işarettir."
+  },
+  {
+    "title": "Hisar",
+    "description": "Kötülüğünüzü isteyenleri bozguna uğratacağınız anlamına gelir."
+  },
+  {
+    "title": "Horoz",
+    "description": "Dostlarınızla aranızı açmak isteyen kişiler çevrenizi sarmış."
+  },
+  {
+    "title": "Hortum",
+    "description": "Rüzgâr hortumu yükselmek anlamına gelir. Ama diğer hortum çeşitlerinin tümü işi başarabilmek için daha çok çalışmak icap ettiği anlamına gelir."
+  },
+  {
+    "title": "Huni",
+    "description": "Olaylara yaklaşımda temkinli davranmaya işarettir."
+  },
+  {
+    "title": "Hurma",
+    "description": "Tatile çok ihtiyaç duyulacağı anlamına gelen bir imdir."
+  },
+  {
+    "title": "İbrik",
+    "description": "Yakınınızda bir hamile varsa erkek çocuk doğuracaktır, yoksa sevindirici bir haber alabilirsiniz."
+  },
+  {
+    "title": "İç İçe Geçmiş Üçgenler",
+    "description": "Elinizden az bir miktar para çıkacaktır."
+  },
+  {
+    "title": "İç Organlar",
+    "description": "Hangi iç organa benzer işaretler görülürse o organlarla ilgili problemler yaşanabilir."
+  },
+  {
+    "title": "İçi Boş Bir Daire Şekli",
+    "description": "İş, sosyal hayatınızda pürüzler nihayet sona eriyor."
+  },
+  {
+    "title": "İçi Boş Bir Dörtgen Şekli",
+    "description": "Mutlu olmak sadece elinizde, biraz gayret."
+  },
+  {
+    "title": "İçi Boş Bir Üçgen Şekli",
+    "description": "Hiç beklemediğiniz maddi rahatlığa kavuşacaksınız."
+  },
+  {
+    "title": "İçi Boş Noktalar",
+    "description": "Size karşı iyi niyet beslemeyen insanlara dikkat."
+  },
+  {
+    "title": "İçi Dolu Daire Şekli",
+    "description": "İşinizde yolunuza küçük problemler çıkacak."
+  },
+  {
+    "title": "İçi Dolu Dörtgen Şekli",
+    "description": "Sevdiğiniz kişi ile aranızdaki anlaşmazlıklar giderilmezse üzüntü doğabilir."
+  },
+  {
+    "title": "İçi Dolu Noktalar",
+    "description": "Sizi sevindirecek olay, haber çok yakınınızda."
+  },
+  {
+    "title": "İçi Dolu Üçgen",
+    "description": "Beklemediğiniz bir negatif olay sizi üzecek. Çabuk toparlanmaya bakın."
+  },
+  {
+    "title": "İdam",
+    "description": "İş ve çalışma yaşantınızda size doğru büyük başarılar geliyor."
+  },
+  {
+    "title": "İğne",
+    "description": "Maddi durumunuz her geçen gün gittikçe düzelecek."
+  },
+  {
+    "title": "İhtiyar",
+    "description": "Gelecekteki hayatınız bolluk, huzur, mutluluk içerisinde geçecek."
+  },
+  {
+    "title": "İki",
+    "description": "Uğursuzluk, hastalık."
+  },
+  {
+    "title": "İki Kalın Paralel Çizgi",
+    "description": "Bir deniz seyahatine çıkmayı düşünebilirsiniz."
+  },
+  {
+    "title": "İmam",
+    "description": "Ruhunun son derece sükunet içinde olacağının ve sıkıntılardan tamamen ayrılacağının sembolüdür."
+  },
+  {
+    "title": "İmparator",
+    "description": "Şans oyunlarından oldukça büyük para kazanma ihtimaliniz var, piyango bileti alın."
+  },
+  {
+    "title": "İnci",
+    "description": "Yaptığınız yada yapmayı düşündüğünüz her şeyi başaracak güçtesiniz."
+  },
+  {
+    "title": "İncir",
+    "description": "Sağlıklı ve mutlu olmayı işaret eder."
+  },
+  {
+    "title": "İnek",
+    "description": "Evinize şimdiye dek olmadığı kadar mutluluk, huzur, bolluk geliyor."
+  },
+  {
+    "title": "İnsan",
+    "description": "İki insan karşılıklı ise anlaşma, sırt sırta ise ufukta dargınlık görünüyor."
+  },
+  {
+    "title": "İnsan-Erkek",
+    "description": "Para ve güç. O insanla yakın teması olacak ve onun tesiri altına girecek anlamı da taşıyabilir."
+  },
+  {
+    "title": "İnsan-Kadın",
+    "description": "Laf ve dedikodu. Hakkında konuşma. İyilik ve kötülük için olabilir bu durum fal içersinde falın geliş kısmına göre değişir."
+  },
+  {
+    "title": "İp",
+    "description": "Yakın zamanda bir yolculuğa çıkabilirsiniz."
+  },
+  {
+    "title": "Irmak",
+    "description": "Zor ve tehlikeli bir pozisyonda olunduğuna ancak istenirse deneyimler sayesinde bu durumdan kurtulunacağına işarettir."
+  },
+  {
+    "title": "Işık",
+    "description": "Arkadaşlarla birlikte eğlenceli geçecek bir güne işarettir."
+  },
+  {
+    "title": "İskambil",
+    "description": "Şans ve talih oyunlarında başarı. Yalnız aşırıya kaçıldığı zaman oldukça zarar verebilir. Dikkatli olunması gerekmektedir."
+  },
+  {
+    "title": "İskele",
+    "description": "Kısa mesafede bir deniz yolculuğu yapacağınıza işarettir."
+  },
+  {
+    "title": "İskelet",
+    "description": "Sizi büyük bir üzüntüye boğan bir olay yada haberle sarsılacaksınız."
+  },
+  {
+    "title": "İskemle",
+    "description": "Düşündüğünüz tatile çok yakında çıkacaksınız."
+  },
+  {
+    "title": "Istakoz",
+    "description": "Elinize yüklü miktarda bir para geçecek."
+  },
+  {
+    "title": "İstiridye",
+    "description": "Servete yaklaşma. Servet kazanmak için oldukça yaklaşılmış. Çok az bir hamle bekleniyor demektir."
+  },
+  {
+    "title": "İtalya",
+    "description": "Arkanızdan dedikodu yapanı çevrenizden hemen uzaklaştırmalısınız."
+  },
+  {
+    "title": "İtfaiye",
+    "description": "Dedikoduların ayyuka çıkacağının, gizlilik perdelerinin açılacağının alametidir."
+  },
+  {
+    "title": "İzci",
+    "description": "Dostlarınızla birlikte bir seyahat gözüküyor. Mutluluk getirecek."
+  },
+  {
+    "title": "Jandarma",
+    "description": "Özgüvenin işaretidir."
+  },
+  {
+    "title": "Jartiyer",
+    "description": "Gönül ilişkilerinde fazla acelecilik yapıldığına bunun da hüsranla sonuçlanacağına işarettir."
+  },
+  {
+    "title": "Jet Uçağı",
+    "description": "Olaylar süratle değişiyor, hazırlıklı olun. İyi haber gelebilir."
+  },
+  {
+    "title": "Jeton",
+    "description": "Hiç zorlanmadan para kazanılacağı anlamına gelir."
+  },
+  {
+    "title": "Jilet",
+    "description": "Uzun süredir beklemede olan işinizi sonunda halledeceksiniz."
+  },
+  {
+    "title": "Jokey",
+    "description": "Elinizde olanları böyle dağıtırsanız kısa süre sonra sıkıntıya düşebilirsiniz."
+  },
+  {
+    "title": "Kab",
+    "description": "Yeni bir iş girişiminde bulunacaksınız."
+  },
+  {
+    "title": "Kabadayı",
+    "description": "İyi yürekli yeni bir dost edineceğine işarettir."
+  },
+  {
+    "title": "Kabe",
+    "description": "Sizi çekemeyenlerin olumsuz etkisinden kurtulacaksınız onlar neticede kendi dertleriyle uğraşacaklar."
+  },
+  {
+    "title": "Kabir",
+    "description": "Evinizde sahip olduğunuz bir eşya için tamirat işi ile uğraşabilirsiniz."
+  },
+  {
+    "title": "Kabristan",
+    "description": "Endişeye kapılarak gözyaşı dökmeye, dünyaevi düşüncelerden koparak ahir zaman düşüncelerine dalmaya işarettir."
+  },
+  {
+    "title": "Kadeh",
+    "description": "Gizli sandığınız bazı sırlarınız başkaları tarafından kolaylıkla öğrenilecek."
+  },
+  {
+    "title": "Kadın",
+    "description": "Bir defaya mahsus olmak üzere istediğiniz bir şey kısa sürede gerçek olacak."
+  },
+  {
+    "title": "Kafa",
+    "description": "Yakın sürede tanışacağınız bir kişi size iyilik yapacak."
+  },
+  {
+    "title": "Kafes",
+    "description": "Eviniz yok ise bir ev sahibi olacaksınız, var ise ikinci evin sahibi olacaksınız."
+  },
+  {
+    "title": "Kaftan",
+    "description": "Güce, kuvvete, itibar ve şerefe işarettir."
+  },
+  {
+    "title": "Kağıt",
+    "description": "Haber. Mektup. Alınacak haberin çeşidi sevinçlide olabilir üzüntülüde. Fal içindeki diğer sembollerden değerlendirilir."
+  },
+  {
+    "title": "Kağnı",
+    "description": "Eninde sonunda istenilenlere ulaşılabileceğine işarettir."
+  },
+  {
+    "title": "Kaktüs",
+    "description": "Dedikodu ve ayrılık. Bu bitki her ne kadar ağaç gurubunda olsa da dikenli olduğundan dolayı fazla bir iyilik sembolü değildir."
+  },
+  {
+    "title": "Kalabalık",
+    "description": "Bugün şans sizden yana istediğiniz hemen her şeyi isteyebilirsiniz."
+  },
+  {
+    "title": "Kale",
+    "description": "Sağlamlık. Güvenirlik. İş yeri işinde ise şirketin sağlam ve güvenilir olduğunu. Eğer öncesinde bir erkek çıktı ise bu kişye son derece güvenilebileceği söz konusudur."
+  },
+  {
+    "title": "Kalem",
+    "description": "Yazı. Bu yazı tarzı biraz ağırlıklı aşk mektubu veya sevgi dolu bir yazı alacak anlamı taşır. Evli olan insanda değerlendirmesi işiyle ilgili oldukça iyi bir zam veya takdir alacak anlamındadır."
+  },
+  {
+    "title": "Kalın Bir Tek Çizgi",
+    "description": "Kısa zamanda yüklü miktarda mala kavuşacaksınız."
+  },
+  {
+    "title": "Kalkan",
+    "description": "Düşündüğünüz kişi sizi çok seviyor, ona güvenmelisiniz."
+  },
+  {
+    "title": "Kalp",
+    "description": "Aşık olma veya sevgi anlamı taşıdığı için falın geliş tarzına göre yorumlanır. Kısmet anlamı taşımaktadır. Gerek evlilik ile ilgili bir haber alınması veya istemeye gelinmesi gibi, veya iş ile ilgili güzel bir kısmetin olmasıdır."
+  },
+  {
+    "title": "Kama",
+    "description": "Şu sıralar içinizden geldiği gibi hareket etmelisiniz etki altında olmayın."
+  },
+  {
+    "title": "Kambur",
+    "description": "Bütün sıkıntılar sona erecek, bolluk içerisinde olacaksınız."
+  },
+  {
+    "title": "Kamçı",
+    "description": "Sıkıntınız var bu durumda yakınlarınızdan yardım istemelisiniz."
+  },
+  {
+    "title": "Kamera",
+    "description": "Yaşanılanlardan ders alarak aynı hataları tekrarlamamaya işarettir."
+  },
+  {
+    "title": "Kamp",
+    "description": "Falın sahibine itimat edilip bırakılan işlerin hiçbirisinden hayır çıkmayacağına, bu başarısızlıklar yüzünden de hiçbir işte barınılamayacağı anlamına gelir."
+  },
+  {
+    "title": "Kamyon",
+    "description": "Getirisi bol bir işe girileceğine ya da yaşanılan yerin değiştirileceğine işarettir."
+  },
+  {
+    "title": "Kanat",
+    "description": "Hayırlı bir seyahat yapacaksınız."
+  },
+  {
+    "title": "Kandil",
+    "description": "Yakında sıkıntılı anlar yaşayabilirsiniz dikkat."
+  },
+  {
+    "title": "Kanguru",
+    "description": "Sevecek ve sevilebilecek bir ilişkiye girmeye işarettir."
+  },
+  {
+    "title": "Kap",
+    "description": "Yeni bir iş girişiminin işareti olan semboldür."
+  },
+  {
+    "title": "Kapı",
+    "description": "Bütün negatif olaylardan uzak durun, uğursuzluk yakınınızda."
+  },
+  {
+    "title": "Kapı Tokmağı",
+    "description": "Bir yere başvurulacağına ya da birisinden fikir alınacağına işarettir."
+  },
+  {
+    "title": "Kaplan",
+    "description": "Çok kısa bir sürede birisi ile nedensiz tartışacaksınız."
+  },
+  {
+    "title": "Kaplumbağa",
+    "description": "Güzel bir kadın yada yakışıklı bir erkek ile tanışacaksınız."
+  },
+  {
+    "title": "Kar",
+    "description": "Bol kazanç ve bereket anlamına gelir."
+  },
+  {
+    "title": "Karagöz",
+    "description": "Münakaşa ve tartışma. Hacivat olmamasına karşın falda ara ara bu sembol çıkmaktadır. Fazla rahatsız olmayacak bir münakaşa öncesini haberdar eder."
+  },
+  {
+    "title": "Karanfil",
+    "description": "Yakın bir zamanda büyük bir aşk yaşayacaksınız."
+  },
+  {
+    "title": "Karasinek",
+    "description": "Dost görünümlü nankör biri çevrenizde dolaşıyor."
+  },
+  {
+    "title": "Kare",
+    "description": "Yakın zamanda iyi bir gelir sahibi olacaksınız."
+  },
+  {
+    "title": "Karga",
+    "description": "Ne yazık ki sevdiğiniz kişi sözünde durmayan bir kişi."
+  },
+  {
+    "title": "Karides",
+    "description": "Bir iş yemeğinine davet edileceksiniz ve mutlu sonuçlar alacaksınız."
+  },
+  {
+    "title": "Karın",
+    "description": "Büyük karın; mal ve paranın artacağına, küçük karın; mal ve paranın azalacağına işarettir. Şiş karın; malın ve paranın artacağına işarettir."
+  },
+  {
+    "title": "Karınca",
+    "description": "Çok büyük gayretle çalışma. Bu sembol çıktığında falına bakılan kişinin çok çalışkan olacağı ve hiç bir zaman aç kalmayacağının işaretidir."
+  },
+  {
+    "title": "Karo",
+    "description": "Hediye veya hediye gibi elde edilmeyen önce ne olduğu bilinmeyen ama mutlu eden şeylere, o şeylerin gerçekleşeceğine işaret eder."
+  },
+  {
+    "title": "Karpuz",
+    "description": "Aşk yaşantınızda sıkıntılardan kurtulacaksınız."
+  },
+  {
+    "title": "Kartal",
+    "description": "Çok güçlü ve sevindirici bir haber. Tüm yakınlarını da ilgilendiren sevinçli bir haber alınacak demektir."
+  },
+  {
+    "title": "Karyola",
+    "description": "Yakınlarınızın birinden gelecek bir doğum haberi var."
+  },
+  {
+    "title": "Kaş",
+    "description": "İş durumlarının iyiye gideceğine ve sağlığın düzeleceğine işarettir."
+  },
+  {
+    "title": "Kasa",
+    "description": "Umulmadık bir anda nakit para bulunacağına ve gelişigüzel bir şekilde harcanacağına işarettir."
+  },
+  {
+    "title": "Kase",
+    "description": "İşlerinizde gereğinden fazla biçimde başarılı olacaksınız."
+  },
+  {
+    "title": "Kaşık",
+    "description": "Elinize iyi fırsatlar geçmeye başlamış artık değerlendirmek gerekir."
+  },
+  {
+    "title": "Kasırga",
+    "description": "Endişelerin ve korkuların boşuna olmadığına her an başına bir şey gelecekmiş gibi olunmasına gerektiğine işarettir."
+  },
+  {
+    "title": "Kasket",
+    "description": "Bugünlerde işinizle ilgili oldukça kazançlı bir teklif alacaksınız."
+  },
+  {
+    "title": "Kavak",
+    "description": "Ümidinizi kaybetmemelisiniz istediğinizi gerçekleştireceksiniz."
+  },
+  {
+    "title": "Kaval",
+    "description": "Alınan bir haberden dolayı sıkıntı yaratan durumun yerini neşeli ve rahat ortama bırakacağına işarettir."
+  },
+  {
+    "title": "Kavanoz",
+    "description": "Tasarrufu seven ve azla yetinmeyi bilen bir kadına işarettir."
+  },
+  {
+    "title": "Kavga",
+    "description": "Sıkıntılı bir duruma düşüleceği ve içinden kurtulmak için çaba harcanacağı anlamına gelir."
+  },
+  {
+    "title": "Kavuk",
+    "description": "Eğitim alanında başarıya ulaşılacağına ve istikbalin çok parlak olduğuna işarettir."
+  },
+  {
+    "title": "Kavun",
+    "description": "Hastalıklardan kurtulmaya işarettir."
+  },
+  {
+    "title": "Kayak",
+    "description": "Çok dikkat edilmesi gereken bir zamana girilmesi. Her an işler kötüye gidebilir. Ortaklık işten oldukça uzaklaşması ve iş hayatında çok dikkat etmesi gerekmektedir."
+  },
+  {
+    "title": "Kayalık",
+    "description": "Bir dostun ziyaretinin sembolüdür."
+  },
+  {
+    "title": "Kayık",
+    "description": "Gönlünüzdeki keder, negatif enerji, sıkıntıları bir kenara atacaksınız."
+  },
+  {
+    "title": "Kayış",
+    "description": "Aşırı harcamaların gereksiz olduğunu anlayacak ve birikime yönelinecek."
+  },
+  {
+    "title": "Kaz",
+    "description": "Aileniz neşe, huzur, bolluk içerisinde olacaktır."
+  },
+  {
+    "title": "Kazan",
+    "description": "Kısa zamanda bir ölüm haberi alacaksınız."
+  },
+  {
+    "title": "Kazık",
+    "description": "Mutluluğunuz her geçen gün artarak devam edecek."
+  },
+  {
+    "title": "Kazma",
+    "description": "Şu günlerde elinize bol miktarda para geçecek, iyi değerlendirin."
+  },
+  {
+    "title": "Keçi",
+    "description": "İnatçılık. Kapris ve huzursuzluk. Bu sembolde çare bu huyda olabilir. Falın bakılan kişide o yüzden değerlendirme ona göre yapılır."
+  },
+  {
+    "title": "Kedi",
+    "description": "Yumuşaklık ve uysallık. Beyin gücü yüksek,biriyle karşılaşılacak."
+  },
+  {
+    "title": "Kel",
+    "description": "Çok çalışmanın karşılığında kazanılacak ancak size faydası olmayacak bir mala işarettir."
+  },
+  {
+    "title": "Kelebek",
+    "description": "Çok kısa bir mutluluk. Veya kısa süreli bir aşk. Fazla zarar getirmeyecek. Yaz aşkları gibi veya tatil aşkı gibi olabilir."
+  },
+  {
+    "title": "Kelepçe",
+    "description": "Çok önemli bir şeyin unutulacağının ve bu nedenle de zarara uğranacağının delaletidir."
+  },
+  {
+    "title": "Kelle",
+    "description": "Hayvan kellesi görmek; davranışların ve düşüncelerin takdirle karşılanacağı yeni bir çevrenin içine girileceğine işarettir."
+  },
+  {
+    "title": "Keman",
+    "description": "Ağırbaşlılık .Ciddiyet ve vakurluğun sembolüdür. Falına bakan kişiye göre yorumu farklı olur."
+  },
+  {
+    "title": "Kemençe",
+    "description": "Sıkıntılı halin alınacak sevinçli bir haberlerle son bulacağına işaret eder."
+  },
+  {
+    "title": "Kemer",
+    "description": "Hayallerinizin gerçekleşme zamanı geldi, şimdi eylem zamanıdır."
+  },
+  {
+    "title": "Kemik",
+    "description": "Ufak bir mal edinerek geçimin karşılanacağına delalettir."
+  },
+  {
+    "title": "Kep",
+    "description": "Yeni bir gönül macerasına, yeni bir işe ya da yeni bir insanla dostluğa işarettir."
+  },
+  {
+    "title": "Kepçe",
+    "description": "Küçük kepçe geçim sıkıntısını, büyük kepçe kazanç bolluğunu işaret eder."
+  },
+  {
+    "title": "Kertenkele",
+    "description": "Sessiz ve hareketsiz, durgunluk dönemine girilmesi."
+  },
+  {
+    "title": "Kervan",
+    "description": "Hayırlı bir iş nedeniyle evin konukların akınına uğrayacağına işarettir."
+  },
+  {
+    "title": "Kese",
+    "description": "Tasalarınızı bir kenara atıyorsunuz; sorunlarınızı biriktirmemeye çalışın."
+  },
+  {
+    "title": "Keser",
+    "description": "İçinde bulunduğunuz iş artık istediğiniz şekilde sonuçlanamayacak."
+  },
+  {
+    "title": "Kesik Düz Çizgi",
+    "description": "Ertelenen ancak daha sonra gerçekleşecek yolculuğa işarettir."
+  },
+  {
+    "title": "Kesişen Doğru Çizgiler",
+    "description": "Mutluluk dolu bolluk içinde bir yaşantı habercisidir."
+  },
+  {
+    "title": "Kibrit",
+    "description": "İç daraltan sıkıntılardan kurtulup yeniden doğmuş gibi rahatlamaya işarettir."
+  },
+  {
+    "title": "Kilim",
+    "description": "İşte öylesine büyük başarılar elde edilecek ki kendi alanında iyi bir isim yapılacağı anlamına gelir."
+  },
+  {
+    "title": "Kilise",
+    "description": "Kişi Müslüman ise, karşısına çıkacak yabancıya karşı tedbirli olması gerektiğinin ifadesidir. Ama falı bakılan kişi Hıristiyan ise ibadetine biraz daha önem vermesi gerektiğinin işaretidir."
+  },
+  {
+    "title": "Kilit",
+    "description": "Girişimlerinizin önünde çok engeller var."
+  },
+  {
+    "title": "Kiraz",
+    "description": "Mutlulukla gelecek bir haber sizi sevindirecek."
+  },
+  {
+    "title": "Kirpi",
+    "description": "Cesaretli ve çevresinin ondan çekindiğinin göstergesidir. Her an çevresini korkutabilir. O kişiye yaklaşırken son derece dikkatli olunması gerektiğini gösterir."
+  },
+  {
+    "title": "Kirpik",
+    "description": "Taşınamaz mala para yatırılacağına işarettir."
+  },
+  {
+    "title": "Kitap",
+    "description": "Eğitim kurumu ile ilgili alınacak güzel bir haber. Bu haber ağırlıklı çocukları olanları ilgilendirir. Okul hayatındaki başarıları sembolize eder."
+  },
+  {
+    "title": "Kılçık",
+    "description": "Piyasalardaki durgunluğun işe de yansıyacağına ve parasal durumun sarsılacağına işarettir."
+  },
+  {
+    "title": "Kılıç",
+    "description": "Adalet. Her ne kadar savaşı anımsatıyorsa da bu sembol adaletin yerine geleceğinin işaretidir."
+  },
+  {
+    "title": "Kılıçbalığı",
+    "description": "Dediğim dedik bir tavır sergilendiğinin, yakınların tavsiyelerine başvurulması gerektiğine işaret eder."
+  },
+  {
+    "title": "Kırık Çizgi",
+    "description": "Geçim sıkıntısına yorumlanır."
+  },
+  {
+    "title": "Kırlangıç",
+    "description": "Tez alınan iyi haber. Hem de çok güzel ve çok kısa bir haber. Sadece kişiyi ilgilendiren bir haber."
+  },
+  {
+    "title": "Kışla",
+    "description": "Yaşanılan bir olaya aşırı bir şekilde sinirlenileceğine, karşılık verilmediğinden ötürü de iç sıkıntıların kısıtlayan tüm ilişkileri bozarak rahata erişileceğine işarettir."
+  },
+  {
+    "title": "Kısrak",
+    "description": "Akıl çelecek alımlı ya da akıllı bir kadına işarettir."
+  },
+  {
+    "title": "Kız",
+    "description": "İstekleriniz kısa bir süre gecikecek ama sonunda mutluluk sizin olacak."
+  },
+  {
+    "title": "Kız Çocuk",
+    "description": "Düşmanlarınız sizin başarınız karşısında oldukça üzülecekler."
+  },
+  {
+    "title": "Kızak",
+    "description": "Talihsiz günler nihayet bitiyor."
+  },
+  {
+    "title": "Kızılderili",
+    "description": "Kudret ve gurur. Bu kişiye özeldir. Falı bakılan kişiye aittir."
+  },
+  {
+    "title": "Klarnet",
+    "description": "Hayatın daima iyi yönlerini alan ve şen şakrak bir kişiliğin sembolüdür."
+  },
+  {
+    "title": "Koç",
+    "description": "Etrafında saygı gören önemli biri ile tanışmak size iyi gelecek."
+  },
+  {
+    "title": "Kök",
+    "description": "Duygusal açıdan çok karamsar olunduğuna, maddi dünyadan soyutlanıldığına, yaşanılan hayattan hiçbir zevk alınmadığına, içe kapanarak işkence çekildiğine işarettir."
+  },
+  {
+    "title": "Koltuk",
+    "description": "Başarılı bir iş yaşantınız olacaktır."
+  },
+  {
+    "title": "Koltuk Değneği",
+    "description": "Kısa süreli de olsa, istediğiniz yolculuğa çıkacaksınız."
+  },
+  {
+    "title": "Kolye",
+    "description": "Kısa bir süre sonra sevindirici bir haber alacaksınız."
+  },
+  {
+    "title": "Konak",
+    "description": "İleride hayatınız huzur içerisinde geçecek, biraz sabretmelisiniz."
+  },
+  {
+    "title": "Köpek",
+    "description": "42 dişli bir hayvan olduğundan Orta büyüklükte bir dilek, 41. Gün bitiminden sonra gerçekleşecektir."
+  },
+  {
+    "title": "Köpek Balığı",
+    "description": "Bir yakınınız ile kısa sürede olsa tartışacaksınız."
+  },
+  {
+    "title": "Köpekbalığı",
+    "description": "İşe fazla yaramayacak fuzuli olan bir haber alınacak."
+  },
+  {
+    "title": "Köprü",
+    "description": "Sıkıntı ile ve zorlukla atlatılacak bir zaman olacak. Bu zaman özellikle köprü çeşidine bağlıdır. Eğer asma köprü ise bu süreç biraz uzun. Aşağıya bağlantılı köprü ise zaman biraz daha kısadır."
+  },
+  {
+    "title": "Korkuluk",
+    "description": "Başa bir bela geleceğine ancak bunun bertaraf edileceğine işaretidir."
+  },
+  {
+    "title": "Koru",
+    "description": "Çevrenizde size iyi duygular beslenmeyen kişiler var dikkatkli olun."
+  },
+  {
+    "title": "Köşk",
+    "description": "Bazı insanlar için hayat standardının yükselmesine bazıları için ise cezaevi anlamına gelir."
+  },
+  {
+    "title": "Kova",
+    "description": "İşlerinizde başarılı olmak için biraz fazla çalışmalısınız, gayret."
+  },
+  {
+    "title": "Kovan",
+    "description": "İşte tam bir başarı öyküsü göstergesi."
+  },
+  {
+    "title": "Kovboy",
+    "description": "Yeni bir aşk macerasına girişebilirsiniz, hazırlanın."
+  },
+  {
+    "title": "Kovuk",
+    "description": "Hiçbir işe ciddiyetle yaklaşılmadığına, vaktin haybeye işlere harcanarak hayal dünyasına dalınacağına işarettir."
+  },
+  {
+    "title": "Köy",
+    "description": "Geçim sıkıntısı, bedeni yorgunluk, çevre baskısı gibi olaylar yüzünden daralmaya dinlenme ihtiyacı duymaya işarettir."
+  },
+  {
+    "title": "Koyun",
+    "description": "Saflık ve temizlik. Ayni zamanda hiç bir şeyden haberi olmadan yaşama anlamı taşır."
+  },
+  {
+    "title": "Koyun Sürüsü",
+    "description": "Bereket, bolluk sembolüdür."
+  },
+  {
+    "title": "Kozalak",
+    "description": "Mutlu bir aile yaşamı ve gelecek güzel günlerin müjdesidir."
+  },
+  {
+    "title": "Kral",
+    "description": "Güçlü birinin varlığını simgeler."
+  },
+  {
+    "title": "Kraliçe",
+    "description": "Hayallerin gerçekleşmesiyle murada erişileceğine işarettir."
+  },
+  {
+    "title": "Kravat",
+    "description": "Açık renk; sevgiye iyi niyete işarettir. Koyu renkli kravat; severek alınan bir eşyanın hasarlı çıkmasına işarettir."
+  },
+  {
+    "title": "Kubbe",
+    "description": "Yapmayı istediğiniz her işte başarı kazanma dönemindesiniz."
+  },
+  {
+    "title": "Küçük Bir Daire Şekli",
+    "description": "Mali, özel ve iş yaşantınızdaki başarılara devam."
+  },
+  {
+    "title": "Kuğu",
+    "description": "Beklediğiniz haber nihayet kapınıza geldi, hazır olun."
+  },
+  {
+    "title": "Külah",
+    "description": "Bir grubun ya da cemaatin lideri olunacağına ya da evleneceğine işarettir."
+  },
+  {
+    "title": "Kulak",
+    "description": "Çok iyi ve yararlı bir istihbarat alınacak. Bu da falına bakılan kişi tarafından çok yararlı olarak kullanılacak anlamındadır."
+  },
+  {
+    "title": "Kule",
+    "description": "Kısa zamanda çok yükselecek. Hem de çok hızlı. Daha doğrusu bu yükseliş hiç beklenmeyen bir yükseliş olacak."
+  },
+  {
+    "title": "Kulübe",
+    "description": "Uzun zamandır görüşülmeyen bir misafir olacağına ve gelinmesinden çok büyük mutluluk duyulacağına işarettir."
+  },
+  {
+    "title": "Kum",
+    "description": "Savurganlığa işarettir. Hesaplı adımlar atmanız gerekir."
+  },
+  {
+    "title": "Kum Saati",
+    "description": "Zamanın faydasız işlerle boşa harcandığına, boş vakitleri sağlıklı bir meşgaleye doğru yönlendirmek gerektiğine işarettir."
+  },
+  {
+    "title": "Kumbara",
+    "description": "Büyük miktarda bir para kaybetme riskiniz var. Ne kadar az ile kurtarırsanız o kadar iyi."
+  },
+  {
+    "title": "Kümes",
+    "description": "Yaşanacak eve yorumlanır."
+  },
+  {
+    "title": "Kumru",
+    "description": "Aşk yaşantınız düzeliyor, güzel günler başlıyor."
+  },
+  {
+    "title": "Kundak",
+    "description": "Tüm dileklere kavuşulacağına işarettir."
+  },
+  {
+    "title": "Kundura",
+    "description": "Sıkıntılı günlerin ardından pozitif ve güzel günler geliyor."
+  },
+  {
+    "title": "Küp",
+    "description": "Günübirlik cinsel ilişkiye işarettir."
+  },
+  {
+    "title": "Kupa",
+    "description": "Kazanılacak bir başarı anlamındadır. Bu özellikle spor müsabakaları ağırlıklı ama iş hayatındaki başarıyı da sembolize eder."
+  },
+  {
+    "title": "Küpe",
+    "description": "Ummadığınız bir para bir anda elinize geçecek."
+  },
+  {
+    "title": "Kurbağa",
+    "description": "İşte veya okul hayatında başarılı olacak. Çok iyi bir aşama kaydedecek."
+  },
+  {
+    "title": "Kurdele",
+    "description": "İş yeri açılışına veya bir birlikteliğin resmileştirileceği anlamına gelir."
+  },
+  {
+    "title": "Kürek",
+    "description": "Çalışmanızın karşılığını nihayet alacaksınız."
+  },
+  {
+    "title": "Kurna",
+    "description": "Tüm enerjisini işe harcadığına ve sağlığını hiç önemsemediğine işarettir."
+  },
+  {
+    "title": "Kürsü",
+    "description": "Zeki ve atılgan olunması sayesinde iyi mevkilere gelineceğine işarettir."
+  },
+  {
+    "title": "Kurt",
+    "description": "Evinize dost görünen bir düşmanınız giriyor, kim olduğunu bulmaya çalışın."
+  },
+  {
+    "title": "Kuş",
+    "description": "Hayırlı bir iş için çok yakında bir ziyaretçiniz olacak."
+  },
+  {
+    "title": "Kuş Kafesi",
+    "description": "Çelişkilerden uzak durun."
+  },
+  {
+    "title": "Kuş Kanadı",
+    "description": "Yakında tüm sıkıntıların biteceğine ve miras yoluyla paraya kavuşulacağına işarettir."
+  },
+  {
+    "title": "Kuş Yuvası",
+    "description": "Bu sıralar bazı uygunsuz yerlere gidebilirsiniz, dikkat."
+  },
+  {
+    "title": "Kutu",
+    "description": "İş ya da sosyal ilişkilerde belirsizlik."
+  },
+  {
+    "title": "Kuyruk",
+    "description": "İş çevresine ya da eve yeni bir insanın gireceğine ancak bu insanın tedirginlik yaratarak rahatı bozacağı anlamına gelir."
+  },
+  {
+    "title": "Kuyruklu Yldız",
+    "description": "Çok uzak bir yerden beklenmedik misafiriniz gelecek."
+  },
+  {
+    "title": "Kuyu",
+    "description": "Yakınlarınızdan birini aldatmayı düşünüyorsunuzi sakın yapmayın."
+  },
+  {
+    "title": "Kuyu Çıkrığı",
+    "description": "Şans kapınızda borçlarınızdan kurtulup rahata kavuşacaksınız."
+  },
+  {
+    "title": "Kuzu",
+    "description": "Bütün dilekleriniz nihayet gerçekleşecek."
+  },
+  {
+    "title": "Lades Kemiği",
+    "description": "İnatçı kişiliğin sembolüdür."
+  },
+  {
+    "title": "Lahana",
+    "description": "İşleriniz düzensizlikten kurtulamıyacak anlamında yorumlanır."
+  },
+  {
+    "title": "Lale",
+    "description": "Şu ana dek arkadaş kabul ettiğiniz birine aşık olacaksınız."
+  },
+  {
+    "title": "Lamba",
+    "description": "Aydınlık ve refahlık. Parlayan yani içi boş lamba önünün açık olduğunu gösterir. Eğer içinde telve kırıntıları varsa bunu hemen yaşayacak anlamı çıkar."
+  },
+  {
+    "title": "Lavabo",
+    "description": "Falına bakılan kişinin içinde birikmiş sıkıntıyı atacağı fakat bunu zamansız yaparsa daha fazla sıkıntıyla yüzleşmek zorunda kalacağı şeklinde yorumlanır."
+  },
+  {
+    "title": "Lazımlık",
+    "description": "Hastalıklardan kurtulacak, sağlığınıza kavuşacaksınız."
+  },
+  {
+    "title": "Leğen",
+    "description": "Hoşlandığınız kimse ile beraber olmak istiyorsunuz, öncelikle hazırlanın."
+  },
+  {
+    "title": "Leylek",
+    "description": "Plandığınız seyahate çıkacak veya ilginç dostluklar kuracağınız bir toplantıya katılacaksınız."
+  },
+  {
+    "title": "Liman",
+    "description": "Gelecekle ilgili korkuların kalmayacağına, tüm yaşantının güven altına alınacağına işarettir."
+  },
+  {
+    "title": "Limon",
+    "description": "Kolaylıkla düzelecek bir sıkıntı var, canınızı sıkmaya değmez."
+  },
+  {
+    "title": "Lokomotif",
+    "description": "Bu sıralar her iş için biraz daha çabuk karar vermelisiniz."
+  },
+  {
+    "title": "Mabet",
+    "description": "İsteklerinin tek tek gerçekleşeceğine işarettir."
+  },
+  {
+    "title": "Maça",
+    "description": "Falda çıkmış olan başka bir obje ya da durumun büyük bir yapıyla, binayla alakalı olduğunun işaretidir."
+  },
+  {
+    "title": "Madalya",
+    "description": "Kaybettiğiniz bir eşyayı bulacaksınız."
+  },
+  {
+    "title": "Mağara",
+    "description": "Yapacağınız kısa seyahati herkesten gizleyin."
+  },
+  {
+    "title": "Mahzen",
+    "description": "Çok uzun yıllar boyunca sağlıklı yaşanacağına işarettir."
+  },
+  {
+    "title": "Makara",
+    "description": "Planlamış olduğunuz seyahate çıkamayacaksınız."
+  },
+  {
+    "title": "Makas",
+    "description": "Sevmediğiniz bir kişi ile aranız her geçen gün açılacak. Olgunluğunuz, bir çatışmayı önlüyor."
+  },
+  {
+    "title": "Makine",
+    "description": "Yapmayı düşündüğünüz bir işte başarı şansınız azalmış, yeniden gözden geçirin."
+  },
+  {
+    "title": "Makine Çarkı",
+    "description": "Tam oturmamış, iyice düşünülmeden eyleme dökülmüş işlerin sembolüdür."
+  },
+  {
+    "title": "Manastır",
+    "description": "İçe kapanarak yalnız kalınmak isteneceğine işarettir."
+  },
+  {
+    "title": "Manda",
+    "description": "Size kötülük yapmak isteyenlerle mücadeleyi bırakmayın, siz kazanacaksınız."
+  },
+  {
+    "title": "Mandal",
+    "description": "Sinirleriniz bu sıralar oldukça gergin, sakın önemli kararlar almayın."
+  },
+  {
+    "title": "Mandolin",
+    "description": "Yeni kişilerle tanışacaksınız onlara iyi dost olacaksınız."
+  },
+  {
+    "title": "Mangal",
+    "description": "Çok yakında elinize para yada mal geçecek, bekleyin."
+  },
+  {
+    "title": "Mantar",
+    "description": "Pek sağlıklı olmayan bir hayat ifade eder. Hayat tarzına biraz daha dikkat etmesi gerektiğinin işaretidir."
+  },
+  {
+    "title": "Martı",
+    "description": "Yakın olan bir dostunuzdan sevindirici haberler alacaksınız."
+  },
+  {
+    "title": "Marul",
+    "description": "Özel yaşantınızda bazı aksaklıklar doğabilir."
+  },
+  {
+    "title": "Maşa",
+    "description": "İyi bir eğitim olduğu halde işsizlikten dolayı bilgi ve becerisi olmayan insanların emrinde çalışılacağına işarettir."
+  },
+  {
+    "title": "Masa",
+    "description": "Önemli bir toplantıya kısa sürede davet edileceksiniz."
+  },
+  {
+    "title": "Maske",
+    "description": "Yaşantıda tekdüzelik son bulacağına, canlılık geleceğine ve etrafa neşe saçılacağına işarettir."
+  },
+  {
+    "title": "Matara",
+    "description": "Helal kazanca, nimet ve rızkın bolluğuna işarettir."
+  },
+  {
+    "title": "Matkap",
+    "description": "Çalışkan, ahlaklı ve asabi bir insana yorumlanır."
+  },
+  {
+    "title": "Maymun",
+    "description": "Sessizlik ve ağzı sıkılık. Aynı zamanda da her şeyden çabuk usanma anlamı taşır. Sembol arkasına ve önüne çok dikkat etmek gerekir, anlam hemen değişebilir."
+  },
+  {
+    "title": "Mektup",
+    "description": "Yakın zamanda sevindirici bir haber alacaksınız."
+  },
+  {
+    "title": "Melek",
+    "description": "Maddi ve manevi tüm sıkıntılardan kurtularak rahatlanacağı anlamına gelir."
+  },
+  {
+    "title": "Melek Kanadı",
+    "description": "Falına bakılan kişinin hayatında alabileceği en önemli haberlerden birisini almak üzere olduğunun delaletidir."
+  },
+  {
+    "title": "Meme",
+    "description": "Çok sevineceğiniz bir haber alacaksınız, mutlu olacaksınız."
+  },
+  {
+    "title": "Merdiven",
+    "description": "Çektiğiniz sıkıntıların neticesine geldiniz biraz daha sabır."
+  },
+  {
+    "title": "Meşale",
+    "description": "İş yaşantınızda büyük başarılar sizi bekliyor."
+  },
+  {
+    "title": "Mescit",
+    "description": "Dürüst bir insan olunduğuna ve bunun karşılığının da zengin olarak alınacağı anlamına gelir."
+  },
+  {
+    "title": "Meşe Palamudu",
+    "description": "Başlanmış olan bir işin, büyük bir takdiri hak edecek derecede önemli bir başarıyla tamamlanacağının alametidir."
+  },
+  {
+    "title": "Meyve",
+    "description": "Açlıktan tokluğa geçiş. Bundan sonrada sağlıklı bir yaşamın kendisini beklediği anlamına gelir."
+  },
+  {
+    "title": "Mezar",
+    "description": "Ölüme yorumlanır."
+  },
+  {
+    "title": "Mezar Taşı",
+    "description": "Kendinizi dinleyip hasta olduğunuz hissine kapılıyorsunuz. Bundan vazgeçin, siz sağlıklı bir insansınız."
+  },
+  {
+    "title": "Mide",
+    "description": "Uzun ve mutlu bir yaşam yaşamak istiyorsanız herkese iyi davranın."
+  },
+  {
+    "title": "Midilli",
+    "description": "İçinde bulunulan zor şartlardan geçici olarak bir süre kurtulunacağına işarettir."
+  },
+  {
+    "title": "Midye",
+    "description": "Fazla yemek yiyorsunuz, bundan dolayı rahatsızlık geçirebilirsiniz."
+  },
+  {
+    "title": "Miğfer",
+    "description": "Kendinizi bir anda büyük bir tartışma ortamının içerisinde bulacaksınız."
+  },
+  {
+    "title": "Mikrofon",
+    "description": "Kısmetiniz bugünlerde olabildiğince açık sayılır."
+  },
+  {
+    "title": "Mikroskop",
+    "description": "Daha önceleri hiç yapmadığınız yeni hobilerle uğraşacaksınız."
+  },
+  {
+    "title": "Minare",
+    "description": "Dargın olduğunuz bir kişi ile barışacaksınız; merak etmeyin."
+  },
+  {
+    "title": "Mısır",
+    "description": "Aile içine girecek bereket. Taneleri çok belirgin çıkabilir. O zaman bitmek bilmez bir bereketin içinde olduklarının işaretidir."
+  },
+  {
+    "title": "Mızrak",
+    "description": "Kazançlı ve sevinçli bir hafta geçirebilirsiniz."
+  },
+  {
+    "title": "Mobilya",
+    "description": "Bir iş ortaklığının son pürüzlerini ortadan kaldırmak için yapılacak toplantıya ve tartışmalara işarettir."
+  },
+  {
+    "title": "Motorsiklet",
+    "description": "Seven dostlarınızın biri yakında beklemediğiniz bir iyilik yapacak."
+  },
+  {
+    "title": "Mum",
+    "description": "Arzularınıza ancak uzun bir süre sonunda kavuşacaksınız. Her şeyin başı sabır."
+  },
+  {
+    "title": "Mumya",
+    "description": "Eski neşeli günlere dönüleceğine işarettir."
+  },
+  {
+    "title": "Mürekkep Balığı",
+    "description": "Bir kişinin teklifi sizi oldukça güç durumlara düşürecek."
+  },
+  {
+    "title": "Muska",
+    "description": "Sevenlerin dualarıyla kazadan beladan korunmaya işarettir."
+  },
+  {
+    "title": "Musluk",
+    "description": "Her şey mükemmel gidiyor artık gereksiz yere üzülmenize gerek yok."
+  },
+  {
+    "title": "Muz",
+    "description": "Yeni gönül macerasına işarettir."
+  },
+  {
+    "title": "Nal",
+    "description": "Şansınız olabildiğince çok açık, elinize yüklü bir miktar para geçecek."
+  },
+  {
+    "title": "Namaz",
+    "description": "Çevrenizde dolaşan uğursuzluk ve kötülüklerden uzaklaşacaksınız."
+  },
+  {
+    "title": "Nar",
+    "description": "Uzun süre beklediğiniz bir mala kavuşarak, dostlarınızı ziyaret edeceksiniz."
+  },
+  {
+    "title": "Nargile",
+    "description": "Kötü huyların düzeltilmesi gerektiğine, zira bu huyların devam etmesinin kötü olacağına, bunun geç de olsa farkına varılacağına işarettir."
+  },
+  {
+    "title": "Nazarlık",
+    "description": "Çok yakın zamanda sizi sevindirecek bir haber alacaksınız."
+  },
+  {
+    "title": "Nehir",
+    "description": "Kadir kıymetinin bilineceği, iyiliksever bir insan işarettir."
+  },
+  {
+    "title": "Ney",
+    "description": "Üzüntüsünü ağlayarak hafifletmeye çalışan kadına işarettir."
+  },
+  {
+    "title": "Numara",
+    "description": "Falınız bitince talih oyunu oynayın zira şansınız bugün açık."
+  },
+  {
+    "title": "Oba",
+    "description": "Alınacak bir haberden dolayı havalara uçulacağına, çok mutlu olunacağına işarettir."
+  },
+  {
+    "title": "Ocak",
+    "description": "Falına bakılan kişinin evi olduğunu gösterir."
+  },
+  {
+    "title": "Oda",
+    "description": "Özeleştiri yapılacağına işarettir."
+  },
+  {
+    "title": "Odun",
+    "description": "Arkasından konuştuğunuz birisi bunu duyacaktır. Size karşılığını belirtecek."
+  },
+  {
+    "title": "Oğlak",
+    "description": "Sağlıklı bir çocuk haberidir."
+  },
+  {
+    "title": "Öğrenci",
+    "description": "Bugünlerde yaşantınızda yeni bir sayfa açılmak üzere."
+  },
+  {
+    "title": "Ok",
+    "description": "Çok ani bir aşka tutulacaksınız, sonunda o da sizi sevecek."
+  },
+  {
+    "title": "Okul",
+    "description": "Eğitimle ilgili başarı anlamı taşımaktadır."
+  },
+  {
+    "title": "Öküz",
+    "description": "Neşe, sevinç, huzur, bereket, bolluk ve başarı tam kapıda."
+  },
+  {
+    "title": "Olta",
+    "description": "Yararlı ve pozitif işler yapmanın tam sırası."
+  },
+  {
+    "title": "Omuz",
+    "description": "Falın sahibinin sorumluluklarını üstlendiği kişilerin varlığını işaret eder."
+  },
+  {
+    "title": "On",
+    "description": "Şansınız açık olacak."
+  },
+  {
+    "title": "Önlük",
+    "description": "Değişimi sembolize eder."
+  },
+  {
+    "title": "Orak",
+    "description": "Beklediğiniz doğru haberleri nihayet alacaksınız."
+  },
+  {
+    "title": "Ördek",
+    "description": "Oldukça iyi bir miktarda hane içerisine girecek para. Kısmet. Bu kısmet nereden geldiği bile zorlukla belli olan bir kısmettir."
+  },
+  {
+    "title": "Orman",
+    "description": "Üst düzeyde ve oldukça güçlü zengin bir insana yorumlanır."
+  },
+  {
+    "title": "Örs",
+    "description": "Parasal kazançlar yolunda namuslu çabalar."
+  },
+  {
+    "title": "Örümcek",
+    "description": "İş veya dost çevresinde kendine hazırlanmış bir komplo. Falın da bariz örümcek çıkarsa bu insan son derece dikkatli olmalı."
+  },
+  {
+    "title": "Örümcek Ağı",
+    "description": "Maddi bakımdan biraz sıkıntıya düşebilirsiniz."
+  },
+  {
+    "title": "Otobüs",
+    "description": "Uzun süredir görmediğiniz arkadaşınız ile karşılaşacaksınız."
+  },
+  {
+    "title": "Otomobil",
+    "description": "Kara seyahati. Ayrıca bir yerden taşınma anlamı da çıkar."
+  },
+  {
+    "title": "Paket",
+    "description": "Bu günlerde alacağınız bir haber neticede canınızı sıkabilir."
+  },
+  {
+    "title": "Palet",
+    "description": "Sanatsal faaliyetlerde bulunulduğuna işarettir."
+  },
+  {
+    "title": "Palmiye",
+    "description": "Çok güzel bir kıyafet veya aksesuar alınacak veya alacak anlamına gelmektedir."
+  },
+  {
+    "title": "Palto",
+    "description": "Sizi seven kişileri kırmamaya çalışın, onlar gerçekte sizi çok seviyorlar."
+  },
+  {
+    "title": "Palyaço",
+    "description": "Milletin eğlencesi olan maskara bir kimseye yorumlanır."
+  },
+  {
+    "title": "Pamuk",
+    "description": "Tez haber. Sonunda büyük bir sevinç yaşayacaksınız."
+  },
+  {
+    "title": "Panter",
+    "description": "İşte tekrar aşık olma zamanınız geldi, siz de bu günlerde aşık olacaksınız."
+  },
+  {
+    "title": "Pantolon",
+    "description": "Var olan sıkıntıları atlatmanın yolu yalnızca sabırdır, unutmamalısınız."
+  },
+  {
+    "title": "Papağan",
+    "description": "Sizde değişik tepkiler uyandıracak bir kişi ile karşılaşabilirsiniz."
+  },
+  {
+    "title": "Papatya",
+    "description": "Bir yakınınızı bu günlerde ziyarete gideceksiniz."
+  },
+  {
+    "title": "Papaz",
+    "description": "Gereksiz yere hemen korkulara kapılmayın, sizin için iyi değil."
+  },
+  {
+    "title": "Para",
+    "description": "Yapmayı düşündüğünüz her işi ertelemeden yapmalısınız."
+  },
+  {
+    "title": "Paraşüt",
+    "description": "Yavaşta olsa istediği hedefe varabilme. Ama çok rahat bir şekilde değil."
+  },
+  {
+    "title": "Paravan",
+    "description": "Herkesten gizlenen bir olayın ortaya çıkmasıyla üzülüneceğine uzun bir süre ortalıklarda gözükülmeyeceğine işarettir."
+  },
+  {
+    "title": "Park",
+    "description": "Şansın açılacağına ve rahatlanacağına işarettir."
+  },
+  {
+    "title": "Parmak",
+    "description": "Bir zarara uğramanız bu sıralar mümkün görünüyor, dikkat."
+  },
+  {
+    "title": "Parmaklık",
+    "description": "Falına bakılan kişi bir şeyden göstere göstere vazgeçmesi gerekecek bir duruma düşecektir."
+  },
+  {
+    "title": "Pasta",
+    "description": "Bir evlilik haberi veya olayı ile karşılaşacaksınız, hazırlanın."
+  },
+  {
+    "title": "Peçe",
+    "description": "İçten pazarlıklı bir arkadaşın neden olacağı maddi hasara işarettir."
+  },
+  {
+    "title": "Pençe",
+    "description": "Sinsi, büyük zarar verebilecek konumdaki gizli bir düşmanı simgeler."
+  },
+  {
+    "title": "Pencere",
+    "description": "Eve veya hane içine gelen sağlık anlamı taşır. Bu insanlar sağlıklarına çok dikkat ediyorlar anlamındadır."
+  },
+  {
+    "title": "Perde",
+    "description": "Bir sırrı simgeler."
+  },
+  {
+    "title": "Pergel",
+    "description": "İstekleriniz gerçekleşecek ve yeni atılımlar yapmak arzusu duyacaksınız."
+  },
+  {
+    "title": "Pervane",
+    "description": "Bazı konularda aşırı duyarlılık gösterildiğine işarettir."
+  },
+  {
+    "title": "Petek",
+    "description": "Zor durumda olan bir yakının yapacağı yardıma yorumlanır."
+  },
+  {
+    "title": "Pil",
+    "description": "Yıldırım aşkı denen şey sizinde başınıza gelecek."
+  },
+  {
+    "title": "Pipo",
+    "description": "Çok yakın zamanda bir dostunuz ile aranız açılabilir."
+  },
+  {
+    "title": "Piramit",
+    "description": "Çok uzaktan gelen gizemli ve enteresan bir haber. Bu haber hayatını etkileyecek derecede bir haber olasılığındadır."
+  },
+  {
+    "title": "Piyano",
+    "description": "Umutsuzluk kavramının son bulduğuna işarettir."
+  },
+  {
+    "title": "Polis",
+    "description": "Bir işten dolayı maddi ve manevi açıdan büyük sıkıntılar yaşayacağınıza yorumlanır."
+  },
+  {
+    "title": "Postacı",
+    "description": "Sonucu sizin için iyi olacak bir yolculuğa çıkacaksınız."
+  },
+  {
+    "title": "Pusula",
+    "description": "Çoğunlukla bir rehberi simgeler. Ama bu rehberin insan olması şart değil. İnsanın iç sesi de olabilir bu, bir kitap veya başka bir şey de."
+  },
+  {
+    "title": "Radyo",
+    "description": "Bir yerden ses gelecek anlamı taşır. Ses gelecek yer biraz uzaktan olacak ses ile birlikte yani daha doğrusu haber ile birlikte ufakta bir para ev içine girecek anlamındadır."
+  },
+  {
+    "title": "Raf",
+    "description": "Vefalı bir dosta, karşısındaki insanın zayıflıklarını istismar etmeyen bir kimseye yorumlanır."
+  },
+  {
+    "title": "Rahibe",
+    "description": "Ahir zamanı düşünerek yaşantıda ibadete de yer ayrılması gerektiğine işarettir."
+  },
+  {
+    "title": "Rahip",
+    "description": "Bütün fallarda bu görüntü iyiye delalet etmez yalnız şunu unutmamak lazım ki ölümü kimse tayin edemez. İşte bu yüzden tam tersine yorumlayıp sıkıntılardan kurtulmak anlamına gelmektedir."
+  },
+  {
+    "title": "Rahle",
+    "description": "Eğitime önem veren bir kişi olduğunun simgesidir."
+  },
+  {
+    "title": "Rakam",
+    "description": "Mesleği temsil eder veya falda vakti simgeler."
+  },
+  {
+    "title": "Raket",
+    "description": "Hayat görüşlerinin bir olduğu, cana yakın, sevimli bir insanla tanışılacağına delalettir."
+  },
+  {
+    "title": "Ray",
+    "description": "Rayın boyuna göre kısa yada uzun bir yolculuk görünüyor."
+  },
+  {
+    "title": "Resim",
+    "description": "Hayal dünyasının zengilliğine işarettir."
+  },
+  {
+    "title": "Ressam",
+    "description": "Hayatınıza yeni bir şekil vermek sizin elinizde."
+  },
+  {
+    "title": "Rıhtım",
+    "description": "Olaylar karşısında sakinliğin kaybedilmeyeceğine ancak tedbirinde elden bırakılmayacağına işarettir."
+  },
+  {
+    "title": "Roket",
+    "description": "Biraz daha sağlam, ayağı yere basan şeyler düşünmelisiniz."
+  },
+  {
+    "title": "Saat",
+    "description": "Zaman azalmış. Vakit oldukça kısa anlamındadır. Bu görüntüden sonraki çıkan sembol çok mühimdir. Lehine de aleyhine de olabilir."
+  },
+  {
+    "title": "Sabun",
+    "description": "Sıkıntılardan bir süre daha kurtulamayabilirsiniz, sabredin."
+  },
+  {
+    "title": "Saç",
+    "description": "Yaptığınız hemen her iş kazançlı, uzun vadeli biçimde olacaktır."
+  },
+  {
+    "title": "Şadırvan",
+    "description": "Uzunca bir süredir beklediğiniz iyi haber yolda."
+  },
+  {
+    "title": "Sahan",
+    "description": "Yemekli bir davet verileceğine işarettir."
+  },
+  {
+    "title": "Şahin",
+    "description": "Acımasız ve nankör karakterde bir dosta işaret eder."
+  },
+  {
+    "title": "Sakal",
+    "description": "Ailenizden biri yaptığı iş neticesinde çok başarılı olacaktır."
+  },
+  {
+    "title": "Saksı",
+    "description": "Sanatsal faaliyetlere işarettir."
+  },
+  {
+    "title": "Sal",
+    "description": "Zorlamayla girişilen ve ilk bakışta hayırlı gözükmeyen bir işin, sonraları giderek şekil değiştireceğine ve iyi bir duruma geleceği şeklinde yorumlanır."
+  },
+  {
+    "title": "Salıncak",
+    "description": "Sevdiğiniz kişiye olan sevginiz her geçen gün daha çok azalıyor. İlişkinizi yeniden gözden geçirmenin tam sırası."
+  },
+  {
+    "title": "Şamdan",
+    "description": "Eğer yanar halde ise İş hayatında güzel bir yol gözükecek. Sönükse çok kısa zamanda yeni bir iş kapısı açılacak demektir."
+  },
+  {
+    "title": "Sandal",
+    "description": "Sizi seven kişi tarafından aldatılmamak için, dikkatli olmanızda yarar var."
+  },
+  {
+    "title": "Sandalet",
+    "description": "Birtakım hobilere çabuk merak salan ve çabuk bırakan maymun iştahlı bir kişiliğe işaret eder."
+  },
+  {
+    "title": "Sandalye",
+    "description": "Tatile, uzun seyahate çıkmayı düşünüyorsunuz, şimdi tam zamanı."
+  },
+  {
+    "title": "Sandık",
+    "description": "Hane içersinde gözüküyor ise eve çok iyice bir para gelecek anlamındadır. Eğer hane dışında gözüküyorsa o kişi sürekli para gelme hayali kuruyor. Ama henüz daha bir sonuç alamayacak anlamındadır."
+  },
+  {
+    "title": "Sapan",
+    "description": "Yanlış bir hareketi görülene dosta sert ifadelerde bulunulacağına işaret eder."
+  },
+  {
+    "title": "Şapka",
+    "description": "Sizi bekleyen büyük başarılar var, hazırlanın."
+  },
+  {
+    "title": "Şapkalı Adam",
+    "description": "Politika ile ilgili bir çalışma yapacak veya bir siyasetçiden yardım alacak demektir. Yardımsız bir iş teşebbüsünde bulunmasının çok zor olduğunu gösterir."
+  },
+  {
+    "title": "Şarap Fıçısı",
+    "description": "Kederleri ve sıkıntıları unutmak için çaba harcanacağına ve eski günlere geri dönmek için elden gelenin yapılacağına işaret eder."
+  },
+  {
+    "title": "Sarık",
+    "description": "Sonucu çok iyi olacak olan bir iş yolculuğu yapılacağına delalet eder."
+  },
+  {
+    "title": "Sarışın",
+    "description": "Dostlarınız arasına yeni kişiler katılacak. İyi dostlar edineceksiniz."
+  },
+  {
+    "title": "Sarkaç",
+    "description": "Artık kararsızlığınızı bırakmalı karar vermelisiniz, çok geç kalmayın."
+  },
+  {
+    "title": "Sarmaşık",
+    "description": "İşte veya hayatta kök salacak atılımlarda bulunmaya işarettir."
+  },
+  {
+    "title": "Satır",
+    "description": "Sözüne güvenilir, dürüst, iyi niyetli, güçlü ve korkusuz bir insanla tanışılacağına işaret eder."
+  },
+  {
+    "title": "Şato",
+    "description": "Yaşantınızda iyi günler başlıyor, rahat olun."
+  },
+  {
+    "title": "Satranç Taşları",
+    "description": "İş durumuna, mala ve itibara yorumlanır."
+  },
+  {
+    "title": "Savaş",
+    "description": "Aile içinde bir sorundan ötürü tartışmalar ve küskünlükler olacağına işarettir."
+  },
+  {
+    "title": "Sayı",
+    "description": "Zaman ve vakit gösterir. Ay veya yıl olarak değerlendirile bilinir. Sayılar ağız fincanın ağız tarafına yakınsa yıl olarak ortalarda ise ay olarak kahve fincanının dibine doğru ise gün olarak değerlendirilir."
+  },
+  {
+    "title": "Saz",
+    "description": "Kısa süre içinde oldukça sevinçli bir haber alacaksınız."
+  },
+  {
+    "title": "Secde",
+    "description": "Kibirli tavırları terk ederek insanlara faydalı ve hayırlı işlerle uğraşılacağına işarettir."
+  },
+  {
+    "title": "Sedir",
+    "description": "Aza kanaat etmeye işarettir."
+  },
+  {
+    "title": "Sedye",
+    "description": "Önemli bir hastalığa işarettir."
+  },
+  {
+    "title": "Sehpa",
+    "description": "Falda çıkan bir insanın rütbe, mevki vb. kaybını simgeler."
+  },
+  {
+    "title": "Sekiz",
+    "description": "Bir yakınınızla tartışmak."
+  },
+  {
+    "title": "Şelale",
+    "description": "Yaşantının dürüstlük ve başarılar içinde geçeceğine işarettir."
+  },
+  {
+    "title": "Semaver",
+    "description": "İnsanlara iyilik yapmayı kendine görev olarak kabul etmiş bir kişiliğe delalet eder."
+  },
+  {
+    "title": "Semer",
+    "description": "Bir beraberliğin evlilikle sonuçlanacağı haberini verir."
+  },
+  {
+    "title": "Şemsiye",
+    "description": "Açık halde olan şemsiye her türlü kötülüklerden korunulacak anlamındadır. Kapalı şemsiye ise kötülükler daha henüz oluşmamış. Ama her an bir kötülük olur. Fakat korunma mekanizması yanında anlamındadır."
+  },
+  {
+    "title": "Sepet",
+    "description": "Düşündüğünüz işleri uygulamanın tam zamanı şimdi yapabilirsiniz."
+  },
+  {
+    "title": "Serçe",
+    "description": "Çocukları seven, gülderen babacan bir insana işarettir."
+  },
+  {
+    "title": "Şeytan",
+    "description": "Aslında şeytanın sadece tasvirlerde bir şekli vardır. Yoksa şeytan elle tutulup gözle görülen bir varlık olmadığı herkesçe malumdur. Ama falda bu tasvir görülürse önüne bir takım engellerin geçeceği anlamı gelmektedir."
+  },
+  {
+    "title": "Sfenks",
+    "description": "Tamamen büyük bir gizem içindedir. Hayatı ile ilgili güzel değişiklikler beklenir."
+  },
+  {
+    "title": "Sigara",
+    "description": "Sizi üzen güçlükler nihayet bitecek."
+  },
+  {
+    "title": "Silah",
+    "description": "Uzun namlulu silah çok uzun sürecek olan münakaşalara. Kısa namlulu silahta kısa münakaşalara işaret eder. Büyük top şeklinde olan bir silah görünürse o da ciddi boyutta bir tartışma hatta fiziki kavgaya dönüşebilecek bir tarz olarak düşünülür."
+  },
+  {
+    "title": "Silindir",
+    "description": "Zorluluğun imidir."
+  },
+  {
+    "title": "Simit",
+    "description": "Kazancın bir kısmının zor günler için biriktirildiğine işarettir."
+  },
+  {
+    "title": "Sincap",
+    "description": "Sempatik. Aynı zamanda sevecenliği bunun yanında ürkekliği temsil eder. Hayatta yapacağı işlerde çok çabuk başarı kazanacağını ve biraz da aceleciliğin işaretidir."
+  },
+  {
+    "title": "Sinek",
+    "description": "Çevrenizde sizi çekemeyenler var."
+  },
+  {
+    "title": "Şişe",
+    "description": "Boşluk içinde olma ihtimalini eğer o insanın falında boş şişe görünüyorsa. Dolu şişeyse her türlü sıkıntılarının geçeceğini ve vaktinin sürekli dolu olacağının işaretidir."
+  },
+  {
+    "title": "Sivrisinek",
+    "description": "Saygı ve sevgi duyduğunuz birisi çevresinden negatif etkilenecektir."
+  },
+  {
+    "title": "Siyah Noktalar",
+    "description": "Kısa sürede elinize bol miktarda para geçecek."
+  },
+  {
+    "title": "Sıçan",
+    "description": "Birilerine istemeyerek zarar verileceğine işarettir."
+  },
+  {
+    "title": "Sığır",
+    "description": "Her şeyiyle mükemmel bir yaşantıya sahip olunacağına işaret eder."
+  },
+  {
+    "title": "Sıpa",
+    "description": "Çocukla birlikte çıkılacak bir tatilin habercisidir."
+  },
+  {
+    "title": "Sırık",
+    "description": "İş gereği çıkılacak bir yolculuğa işarettir."
+  },
+  {
+    "title": "Soba",
+    "description": "Bu insanlardan sıcaklık ve samimiyet gelecek anlamındadır. Yahut ta kendi karakter yapısını göstermektedir."
+  },
+  {
+    "title": "Sofra",
+    "description": "Rızkın bolluğuna, bir davete katılmaya, rahata ve huzura yorumlanır."
+  },
+  {
+    "title": "Soğan",
+    "description": "Ciddi boyutta üzüntülü bir haber alabilirsiniz."
+  },
+  {
+    "title": "Solucan",
+    "description": "Çevreniz yalancı dostlarla dolu, dikkat."
+  },
+  {
+    "title": "Sopa",
+    "description": "Maddi gücün kuvvetine ve kudretine işarettir."
+  },
+  {
+    "title": "Soru İşareti",
+    "description": "Aşk yaşantınızda tereddütler bir süre daha devam edebilir."
+  },
+  {
+    "title": "Su Kemeri",
+    "description": "Nakil. Bir yerden bir yere taşınma veya iş değiştirme anlamı taşımaktadır. Bu taşınma büyük bir olasılıkla çok isabetli ve hayırlı bir taşınma veya yer değiştirme olacaktır."
+  },
+  {
+    "title": "Subay",
+    "description": "Yakınlarınızla gereksiz yere tartışmaktan kaçının, netice sıkıntı vericidir."
+  },
+  {
+    "title": "Sümüklü Böcek",
+    "description": "Uzun süredir olan borçlarınızı ödeyeceksiniz, çünkü ummadığınız yerden elinize geçecek değerler var."
+  },
+  {
+    "title": "Sünger",
+    "description": "İşlerin yoğun stresinden bunalmaya kısa bir tatille dinlenmeye işaret eder."
+  },
+  {
+    "title": "Süngü",
+    "description": "Yüz yüze olacak bir çatışmanın sembolüdür."
+  },
+  {
+    "title": "Süpürge",
+    "description": "Klasik çalı süpürgesi çok zor şartlarda verilen emeği sembolize eder. Eğer elektrikli süpürge de biraz kolay elde edilen emeği sembol ize eder."
+  },
+  {
+    "title": "Sürü",
+    "description": "Dostlarınızla kalabalık bir davete katılmayı, eğlenceli ve mutlu sattler geçirmeye işaret eder."
+  },
+  {
+    "title": "Sürüngenler",
+    "description": "Tüm sürüngen hayvan şekilleri tehlikeli ve zor bir yaşamı temsil eder. Yalnız sonunda başarıya götürecek bir hayatı anlatmaktadır. Dünya üzerinde özellikle sürüngenler tehlikeli yaratık sayılmaktadır. Kahve falında sürüngen çıkan insanlar sonunda her türlü güçlüğü yenmeye muaffak olur."
+  },
+  {
+    "title": "Süvari",
+    "description": "Yakınlarınızla aranız açılabilir, siz haklısınız, sonunda bir hediyeniz var."
+  },
+  {
+    "title": "Tabak",
+    "description": "Gelen misafirdir. Evde hamile olan varsa erken doğum yapacak demektir. Gelen misafirin de ayni zamanda çok kısmetli birisi olduğunu gösterir."
+  },
+  {
+    "title": "Tabanca",
+    "description": "İçinde bulunduğunuz olaylara bir süre daha çıkış yolu bulunmuyor."
+  },
+  {
+    "title": "Tabut",
+    "description": "Bunu bir çok yorumcu kötüye yorar aslında kesinlikle değildir. Tabut içindeki insan çok güzel bir haber gelecek anlamı taşır. İçinde insan yoksa çok fazla sevindirmeyen bir haber demektir."
+  },
+  {
+    "title": "Taç",
+    "description": "Çok yakın zamanda yapılacak bir evliliğin işaretidir. Eğer falı bakılan evli ise o zaman işinde hayatında çok yüksek başarıya adımını atacak demektir."
+  },
+  {
+    "title": "Taht",
+    "description": "Uzun süreli bir seyahate çıkacaksınız."
+  },
+  {
+    "title": "Tahtaravalli",
+    "description": "Düşünceleriniz sürekli değişmekte, karar zamanı."
+  },
+  {
+    "title": "Takke",
+    "description": "İmanı kuvvetli bir kişiye işarettir."
+  },
+  {
+    "title": "Taksi",
+    "description": "Gizli arzular."
+  },
+  {
+    "title": "Takunya",
+    "description": "Bütün iş ve sosyal yaşantınızda duraklama olabilir hazırlanın."
+  },
+  {
+    "title": "Tapınak",
+    "description": "İçinde bulunulan sıkıntılı durumlardan kurtularak rahat ve huzura kavuşulacağına, hayallerinizin gerçekleşeceğine işaret eder."
+  },
+  {
+    "title": "Tarak",
+    "description": "Mutlu olacağınız bir ilişkiye bu günlerde başlayacaksınız, hazırlanın."
+  },
+  {
+    "title": "Tarla",
+    "description": "Berekete işarettir."
+  },
+  {
+    "title": "Tasma",
+    "description": "Başkalarının emrinde çalışan tek düze bir yaşantıya sahip olan ne ileri ne de geri giden kendi halinde bir kişiye sahiptir."
+  },
+  {
+    "title": "Tava",
+    "description": "Aileniz ile aranız açılabilir."
+  },
+  {
+    "title": "Tavşan",
+    "description": "Çok çabuk gelecek olan bir sevinç. Bu sevinç çok yakın birisinden alınacak demektir. Özellikle okul ile ilgileri var ise bu hususta imtihan kazınılacak demektir. Ayrıca bu kişinin etrafında olup bitenleri de çok iyi takip etmesi gerekmektedir. Çünkü bu iş ile ilgili başarısı kulaklarını çok iyi açması ile bağlantılı olduğunu gösterir."
+  },
+  {
+    "title": "Tavuk",
+    "description": "Ailenin veya kişinin gelir düzeyinin artması. Çok süratli yükselme ve sağlığının da oldukça iyi gideceğinin işaretidir."
+  },
+  {
+    "title": "Tavuskuşu",
+    "description": "Ummadığınız bir paraya kısa sürede konacaksınız. Belki de bir miras."
+  },
+  {
+    "title": "Tay",
+    "description": "Çocukların başarıları sayesinde mala ve mülke kavuşulacağına işarettir."
+  },
+  {
+    "title": "Tekerlek",
+    "description": "Şans her an dönebilir. Otomobil tekerleğine benzerse daha da dikkatli olunmalıdır. Eğer at arabası veya bisiklet tekerleği çıkarsa daha geç gelebilecek olan şanssızlıklar olabilir. Her türlü kazaya karşı kişi olabildiğince dikkat etmelidir."
+  },
+  {
+    "title": "Tekne",
+    "description": "Aniden değişen iş ve sosyal hayatın habercisidir."
+  },
+  {
+    "title": "Telefon",
+    "description": "Bu net olarak falda görülebiliyorsa pek iyi olmayan biraz üzüntülü bir haber alınacak anlamını taşır. Tabii yine de yorum yaparken ne kadar pozitif olarak yapılırsa tehlikeden biraz daha uzaklaşmış olunur."
+  },
+  {
+    "title": "Tencere",
+    "description": "Sevdiğiniz birinden üzülerek de olsa ayrılacaksınız. Bu ayrılığın süresi ikinize bağlı."
+  },
+  {
+    "title": "Tenis Raketi",
+    "description": "Çok zor olan bir iş yapılmaya çalışılacak. Olasılılık ihtimali çok zayıf bir işin sonunda muvaffak olunması. Ama oldukça büyük bir başarıya imza atmış olacak."
+  },
+  {
+    "title": "Terazi",
+    "description": "Burada ki ifade tarzı adaletin tecellisi şeklindedir. Bu ayni zamanda ilahi adaleti de anlatmaktadır. Falın da çıkan kişi eğer daha önce haksızlığa uğradı ise adalet yerini bulacaktır. Ama adaletle ilgili hiç bir işi yoksa o zaman da ondan işlerinde adil davranması gerektiğinin mesajı verilmektedir."
+  },
+  {
+    "title": "Tesbih",
+    "description": "Bir adağınız yada sözünüz var, hemen yerine getirmelisiniz."
+  },
+  {
+    "title": "Testere",
+    "description": "Sevdiğiniz ile aranızı açamaya çalışanlar var."
+  },
+  {
+    "title": "Testi",
+    "description": "Size dostluk gösteren o zengin kişi ikiyüzlü davraniyor, dikkatli olun."
+  },
+  {
+    "title": "Tilki",
+    "description": "Akıllı ve kurnaz. Çıkan şekil eğer hane etrafında ise o kişinin çok dikkat etmesi lazım. Mümkünse ortak bir çalışmaya girmemesi lazım."
+  },
+  {
+    "title": "Timsah",
+    "description": "Kötü bir haber alacaksınız, kendinizi hazırlayın."
+  },
+  {
+    "title": "Tiyatro",
+    "description": "Sanatsal faaliyetlerin artacağına işarettir."
+  },
+  {
+    "title": "Tırmık",
+    "description": "Artık yaşantınızı düzene sokmanızın zamanı geldi de geçiyor bile."
+  },
+  {
+    "title": "Tırtıl",
+    "description": "Arkadaşınız ile aranızdaki yaşanan dargınlık nihayet bitiyor."
+  },
+  {
+    "title": "Tohum",
+    "description": "Hayırlı bir işin habercisidir."
+  },
+  {
+    "title": "Toka",
+    "description": "Çok emek harcayarak elde edilen statülerin imidir."
+  },
+  {
+    "title": "Tokmak",
+    "description": "Her hangi bir tokmağa benzetmek alacağın direktif seni yönlendirecek demektir."
+  },
+  {
+    "title": "Top",
+    "description": "İstediğiniz eşyaya nihayet kavuşacaksınız."
+  },
+  {
+    "title": "Topaç",
+    "description": "Dostlarınızı menfaatiniz için kullanıyorsunuz, yakında bunu fark edecekler."
+  },
+  {
+    "title": "Torba",
+    "description": "İyi bir arkadaş çevresine ve sağlam ilişkilere, rahat ve sakin bir yaşantıya işarettir."
+  },
+  {
+    "title": "Traktör",
+    "description": "Yaşantınızın bundan sonrası rahat geçecek, üzülmemelisiniz."
+  },
+  {
+    "title": "Trampet",
+    "description": "Başınıza gelecek olan çok önemli bir olay var."
+  },
+  {
+    "title": "Tramvay",
+    "description": "Sevdiğiniz kişi ile aranız açılacak kötü günler geçireceksiniz."
+  },
+  {
+    "title": "Tren",
+    "description": "Yaşantınızı değiştirme planlarınız boşa gidebilir, çok iyi düşünün."
+  },
+  {
+    "title": "Tren Rayı",
+    "description": "Bir yolculuğa işarettir."
+  },
+  {
+    "title": "Tüfek",
+    "description": "Aile yaşantınıza doğru yönelen bir tehlike var. Bu durumu alacağınız bir haber düzeltecek."
+  },
+  {
+    "title": "Tuzak",
+    "description": "Kötülük isteyenlerin bu emellerine ulaşamayacaklarına işarettir."
+  },
+  {
+    "title": "Üç",
+    "description": "Başarılı iş."
+  },
+  {
+    "title": "Üç Dolu Nokta",
+    "description": "Yeni bir aşk macerasına başlayacaksınız, hazırlanın."
+  },
+  {
+    "title": "Uçak",
+    "description": "Çok güzel ve çok kısa zamanda çok uzağa yapılacak bir seyahat. Bu seyahatin gidişi de gelişi de son derece çabuk olacaktır."
+  },
+  {
+    "title": "Üçgen",
+    "description": "Bir hediye gönderileceğine işarettir. Elinize kolayca geçecek parayı da haber verebilir."
+  },
+  {
+    "title": "Uçurtma",
+    "description": "İstediğiniz şeylerden sizi uzaklaştırmak isteyenler var."
+  },
+  {
+    "title": "Uçurum",
+    "description": "Tehlike getirebilecek bir davranışta bulunmaktır. Bu bir ikazdır son zamanlarda attığınız adımı oldukça dikkatli atmanız gerekmektedir. Aksi takdirde problemli bir hale gelebilir."
+  },
+  {
+    "title": "Ud",
+    "description": "Çevrenizde yalan söyleyen çok kişi var."
+  },
+  {
+    "title": "Üniforma",
+    "description": "Kazanılacak bir başarının ardından dostların ve yakınların arasında saygınlığın artacağına işaret eder."
+  },
+  {
+    "title": "Ustura",
+    "description": "Bir haksızlığa uğrayabilirsiniz, tedbirli olmanızda yarar var."
+  },
+  {
+    "title": "Ütü",
+    "description": "Beklediğiniz haber yolda, hazırlıklı olun yeter."
+  },
+  {
+    "title": "Uzaysal Objeler",
+    "description": "Mutluluğu ve iyi şansı temsil eder."
+  },
+  {
+    "title": "Üzüm",
+    "description": "O sene çok hareketli ve aynı zamanda bereketli bir yıl olacak. Aynı yağmurun yağması gibi olan bu üzüm salkımı eğer ağza doğru yer pozisyonda görülürse o zaman çok iyi bir teşebbüsünde bulunacak ve ayni zamanda çok eğlenceli ve neşeli bir ay geçecek demektir."
+  },
+  {
+    "title": "Vantilatör",
+    "description": "Yeni bir flörtün başlangıcı. Düşüncesizce hareketlere dikkat."
+  },
+  {
+    "title": "Vapur",
+    "description": "Huzura kavuşturan manevi bir yolculuğun işaretidir."
+  },
+  {
+    "title": "Varil",
+    "description": "Ağır bir işi temsil eder."
+  },
+  {
+    "title": "Vasıta",
+    "description": "Yaşamı idame ettirebilmek için çeşitli işlere girilip çıkılacağına, istenilen eşyaların alınacağına, boş olan bir işe girebilmek için kudretli bir kişinin yardımını isteyeceğinize işarettir."
+  },
+  {
+    "title": "Vazo",
+    "description": "Size yakın bir kişi davranışları ile sizin üzerinizde üzüntü yaratacak. Her şeyi oluruna bırakırsanız, kendiliğinden düzelecek."
+  },
+  {
+    "title": "Villa",
+    "description": "Zenginliği simgeler."
+  },
+  {
+    "title": "Volkan",
+    "description": "Ufak bir meseleden dolayı çıkacak bir tartışmada çok sert tepki vereceğinize işaret eder."
+  },
+  {
+    "title": "Vücut",
+    "description": "Yaptığınız iyiliklerin karşılığını alacaksınız."
+  },
+  {
+    "title": "Yaban Domuzu",
+    "description": "Size şirin görünmeye çaba sarfeden kişinin amacı çok kötü. Etrafınıza dikkat edin."
+  },
+  {
+    "title": "Yağmur",
+    "description": "Bereket ve bolluk yılı olacak. Her iş son derece yolunda gidecek. Sağanak halinde yağan yağmur bolluk ve bereketin bu yıl daha fazla olacağının emaresidir."
+  },
+  {
+    "title": "Yakalık",
+    "description": "Falına bakılan kişinin veya falda çıkan başka birisinin iş veya okul hayatında başarılı olmasının ya da gönül ilişkisinde saadete kavuşmasının anahtarının, başka birisinin elinde olduğuna dair bir işarettir."
+  },
+  {
+    "title": "Yalı",
+    "description": "Sakin, huzurlu ve rahat bir yaşantıya işaret eder."
+  },
+  {
+    "title": "Yanardağı",
+    "description": "Kızgınlık ifadesidir. Hane içine ve dışına bakılarak yorumlanır. Ayni zaman da tehlike anlamı da taşır. Falda dağın üstünde nokta nokta lav görünürse tehlikenin oldukça içinde olduğunu gösterir."
+  },
+  {
+    "title": "Yaprak",
+    "description": "Eski bir dosttan haber yada yeni bir dost edineceksiniz."
+  },
+  {
+    "title": "Yarasa",
+    "description": "Korku ve dehşete düşme panikleşme ifadesidir. Yalnız bütün bunların hepside boş olan şeyler üzerine olacak anlamına gelmektedir. Yani lüzumsuz yere düşünülen korku ve paniktir. O anda bu tarzda bir şikayet var ise son derece lüzumsuz olduğunun ispatıdır."
+  },
+  {
+    "title": "Yarımay",
+    "description": "Yapmayı düşündüğünüz planlarınız için ortam ve şansınız oldukça uygun."
+  },
+  {
+    "title": "Yastık",
+    "description": "Eğlenceli bir tatile çıkacaksınız. Sonucu çok olumlu."
+  },
+  {
+    "title": "Yatak",
+    "description": "Kararsızlığınızı bırakmanın zamanıdır. Alacağınız kararlar hayatınızı etkileyecek cinsten."
+  },
+  {
+    "title": "Yatan İnsan",
+    "description": "Biraz rahatsızlık ifadesidir. Hane içinde ve dışında olarak değerlendirme yapmak gerekir. Zira ağır bir hastalık ifadesi taşımaktadır. Hanenin dışında ise oldukça uzak, içinde ise yakın birisinin hastalığı söz konusudur."
+  },
+  {
+    "title": "Yay",
+    "description": "Sağlığınızda her geçen gün düzelme var."
+  },
+  {
+    "title": "Yedi",
+    "description": "Aile saadeti, aşkta mutluluk."
+  },
+  {
+    "title": "Yel Değirmeni",
+    "description": "Bugüne dek olan bütün emeklerinizin karşılığını alacaksınız."
+  },
+  {
+    "title": "Yelken",
+    "description": "Dilekleriniz neticede gerçek olacak, sabredin."
+  },
+  {
+    "title": "Yelkenli",
+    "description": "Son derece mutlu ve umutlu bir hayatın o kişiyi bekleyeceği anlamına gelmektedir. Ayni zaman da yaşayacağı hayat son derece sakin ve sağlıklı bir hayat demektir. Bu hayat tarzı biraz da monoton bir tarzdır."
+  },
+  {
+    "title": "Yelpaze",
+    "description": "Ferah haberlerini arka arkaya alıp, derin bir oh çekeceksiniz."
+  },
+  {
+    "title": "Yengeç",
+    "description": "Yana yürüyen bir hayvan olduğu ve kıskaçları olduğu için tehlike işaretidir. Bu yüzden o aralar pek iş teşebbüsünde bulunmaması gerekir. İş hayatı veya evlilik biraz problemli gidecek demektir. Daha ziyade bunu bekar olarak ta düşünürsek her türlü ilişkide bu aylar biraz problem yaşanacak demektir."
+  },
+  {
+    "title": "Yılan",
+    "description": "Etrafınızdaki gizli düşmanını bulmaya çalışmalısınız."
+  },
+  {
+    "title": "Yıldız",
+    "description": "Falında yıldız çıkan kişi bir meslek sahibi ise, iş hayatında önemli değişiklikler yaşayacak, statüsü ve konumu tamamen değişecektir."
+  },
+  {
+    "title": "Yol",
+    "description": "Çıkılacak olan seyahatler. Arkası kapalı olan yol gitmekten vazgeçilecek. Açık olan yolda gidilecek anlamı taşır. Kısa ve uzun çizgiler yolun mesafesini gösterir. Koyulu ve açıklıkları da zamanı gösterir. Koyu çizgi kısa zamanı açık çizgi ise veya fulü olan çizgi iler iki zamanı göstermektedir."
+  },
+  {
+    "title": "Yonca",
+    "description": "Sevgi ve uğur getirir. Eğer hane içine yakınsa hane içine çok güzel değişiklikler gelecek demektir."
+  },
+  {
+    "title": "Yorumlanamayan Şekiller",
+    "description": "Sıkıntı, karışıklık, rahatsızlık, zarar, mutsuzluk ifade eder."
+  },
+  {
+    "title": "Yük Arabası",
+    "description": "İleride çok faydası görülecek küçük bir işe girişileceği anlamına gelir."
+  },
+  {
+    "title": "Yumruk",
+    "description": "Sevdiğiniz birine hediye almayı düşünüyorsunuz, tam zamanı."
+  },
+  {
+    "title": "Yumurta",
+    "description": "Çok kısa zamanda gelecek paradır. Ayrıca hamile olmayı bekleyenler var ise hamile kalacağının işaretidir. Doğacak olan bebeğin sağlıklı ve problemsiz olacağına işaret eder."
+  },
+  {
+    "title": "Yunus",
+    "description": "Çok iyi bir kısmet ve zenginliği sembol ize eder. Bu hayvan hem memeli olup hem de insana çok yakın olduğu için bu hayvanın falda gözükmesi son derece iyidir. Kısmet ve paranın dışında her türlü kötülükten arınma anlamındadır. Atlayan yunus görmek çok hızlı bir şekilde olaylar gerçekleşecek anlamı taşır."
+  },
+  {
+    "title": "Yuva",
+    "description": "Yaşanılan hayattan memnun olunacağına işaret eder."
+  },
+  {
+    "title": "Yüzler",
+    "description": "Dostluklar."
+  },
+  {
+    "title": "Yüzük",
+    "description": "İsminden de anlaşıldığı üzere evliliği sembol ize eder. Yalnız evli bir insansa o zaman da bir sevgili anlamı taşır. Yüzük özellikle fincanın üst tarafında görünüyorsa evlilik daha yakın eğer alt tarafta yani fincanın dibine doğru ise süratli olacak olan evliliğin işaretidir."
+  },
+  {
+    "title": "Zar",
+    "description": "Bugünlerde talih oyunları için şansınız oldukça açık. Abartıya kaçmamak şartıyla bu şansınızı değerlendirebilirsiniz."
+  },
+  {
+    "title": "Zarf",
+    "description": "Uzun süredir ihmal ettiğiniz biri sizden haber bekliyor."
+  },
+  {
+    "title": "Zeybek",
+    "description": "Yakınlardan birinin mutlu bir davetine katılmaya işarettir."
+  },
+  {
+    "title": "Zeytin",
+    "description": "Zeytin barışın sembolüdür. Çevredeki insanlardan küs oldukları varsa barışacağı anlamı taşır. Zeytin ağıza götürülüyor ise bu insan çok barışçı bir insanla karşılaşacak ve o insandan iyilik görecektir."
+  },
+  {
+    "title": "Zeytin Dalı",
+    "description": "Barışın sembolüdür. Çevredeki insanlardan küs oldukları varsa barışacağı anlamı taşır. Zeytin ağza götürülüyor ise bu insan çok barışçı bir insanla karşılaşacak ve o insandan iyilik görecektir."
+  },
+  {
+    "title": "Zil",
+    "description": "Haber. Bir düğünün haberi olabilir."
+  },
+  {
+    "title": "Zincir",
+    "description": "İşlerinizde geçici durgunluk neticesinde oluşan sıkıntılar var."
+  },
+  {
+    "title": "Zırh",
+    "description": "Arkada sürekli destek veren birinin sayesinde tüm güçlüklerin üstesinden geliceğine işaret eder."
+  },
+  {
+    "title": "Zürafa",
+    "description": "Zarafet ve inceliği gösterir ayni zamanda duygusallığın sembolüdür. Çok çabuk ihanete uğrayabilir. Bu yüzden çevresine çok dikkat etmesi gerekmektedir. Biraz insanlara tepeden bakmasını seven bir kişiliği vardır. Yorum kişiye göre falı bakılan erkek ve kadına göre biraz değişebilir."
+  },
+  {
+    "title": "Zurna",
+    "description": "Sevineceğiniz haberler alacaksınız, hazırlanın."
+  }
+]

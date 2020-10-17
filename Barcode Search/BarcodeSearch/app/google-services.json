@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973420709557",
+    "firebase_url": "https://barkod-5b893.firebaseio.com",
+    "project_id": "barkod-5b893",
+    "storage_bucket": "barkod-5b893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973420709557:android:53c57286647a6ce77de0fc",
+        "android_client_info": {
+          "package_name": "com.guventopal.barcodesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973420709557-de8qo60ltequkl93f4gq23p6755n9biv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCB6CoVrBVblUYcjYyE-BNrAcUZK-YfYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973420709557-de8qo60ltequkl93f4gq23p6755n9biv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

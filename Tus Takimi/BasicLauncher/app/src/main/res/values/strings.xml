@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tuşlu Telefon</string>
+    <string name="title_home">Tuş Takımı</string>
+    <string name="title_contacts">Rehber</string>
+    <string name="title_menu">Menü</string>
+    <string name="people_image">People</string>
+    <string name="img_people">TODO</string>
+    <string name="rehber">Rehber</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aramalar">Geçmiş</string>
+    <string name="ki_iler">Kişiler</string>
+</resources>

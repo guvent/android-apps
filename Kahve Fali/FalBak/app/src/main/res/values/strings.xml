@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kahve Falınız</string>
+    <string name="fal_ma_bak">Falıma Bak</string>
+    <string name="baslayalim">Kahvenizi İçtiyseniz Başlayalım</string>
+    <string name="nasil">Falınıza Nasıl Bakalım?</string>
+    <string name="foto_yok">Hiç Fotoğraf Vermediniz</string>
+    <string name="foto_cek">Fincanınıza Ait 3 Adet Fotoğrafa İhtiyaç Var.</string>
+    <string name="kismet">Bakalım Kısmetinizde Neler Var?</string>
+    <string name="fal_hazir">Falınız Yorumlandı. Fincana Dokunun Hadi</string>
+    <string name="fal_yorumlaniyor">Falınız Yorumlanıyor Sizi Biraz Bekleteceğiz.</string>
+    <string name="kalan_s_re">Kalan Süre\n 00:00</string>
+    <string name="foto_gonder">Fotoğraflar Hazır Olduğuna Göre Hadi Gönderin</string>
+    <string name="fincan_resmi_ekle">Fincan Resmi Ekle</string>
+    <string name="g_nder">GÖNDER</string>
+    <string name="tem_zle">TEMİZLE</string>
+
+<!--    <string name="ad_banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+        <string name="ad_banner_id">ca-app-pub-8300712157555654/1529661448</string>
+
+<!--    <string name="ad_reward_id">ca-app-pub-3940256099942544/5224354917</string>-->
+        <string name="ad_reward_id">ca-app-pub-8300712157555654/8641864700</string>
+</resources>

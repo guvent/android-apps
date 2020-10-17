@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_contact"
+        android:icon="@drawable/ic_people_foreground"
+        android:title="@string/ki_iler" />
+<!--    <item-->
+<!--        android:id="@+id/navigation_missed"-->
+<!--        android:icon="@drawable/ic_history"-->
+<!--        android:title="@string/aramalar" />-->
+
+
+</menu>

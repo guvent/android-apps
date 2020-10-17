@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/calls_navigation"
+    app:startDestination="@+id/navigation_contact">
+
+    <fragment
+        android:id="@+id/navigation_contact"
+        android:name="com.guventopal.basiclauncher.ui.calls.CallsFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_calls" />
+
+    <fragment
+        android:id="@+id/navigation_missed"
+        android:name="com.guventopal.basiclauncher.ui.calls.MissedFragment"
+        android:label="@string/title_contacts"
+        tools:layout="@layout/fragment_missed" />
+
+</navigation>
